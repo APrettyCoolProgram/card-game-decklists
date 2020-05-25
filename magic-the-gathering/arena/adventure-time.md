@@ -1,7 +1,7 @@
 # SELENYSA
 
-> Adventures in Seleysna
-Just a deck
+### Adventures in Seleysna
+> Deck description
 ```
 deck
 12 Plains (ANA) 56
