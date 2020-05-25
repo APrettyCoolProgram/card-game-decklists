@@ -1,9 +1,9 @@
-# SELENYSA
+# Selesnya
 
-### Adventures in Seleysna
+### Adventures in Selesnya
 > Deck description
 ```
-deck
+Deck
 12 Plains (ANA) 56
 3 Flaxen Intruder (ELD) 155
 4 Curious Pair (ELD) 150
