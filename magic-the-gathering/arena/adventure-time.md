@@ -1,12 +1,7 @@
-
-
-================================================================================
-SELENYSA ADVENTURES
+# SELENYSA ADVENTURES
 Seleysna decks built around cards with the Adventure keyword.
-================================================================================
 
---- STANDARD ---------------------------
---- STANDARD ----------------- WxxxG ---
+
     ```
     Deck
     12 Plains (ANA) 56
