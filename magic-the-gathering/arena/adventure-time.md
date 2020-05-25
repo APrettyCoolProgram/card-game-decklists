@@ -1,6 +1,6 @@
 # SELENYSA
 
-### Adventures in Seleysna
+> Adventures in Seleysna
 Just a deck
 ```
 deck
