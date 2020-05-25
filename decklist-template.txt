@@ -54,4 +54,18 @@ Green + blue + red = Temur
 White + black + green = Abzan
 
 
+### Adventures in <colors>
+> Built around the *Adventure* keyword.
+```
+Deck
+<contents>
+```
+
+
+
+### Deathtouch of <colors
+> Built around the *Deathtouch* keyword.
+```
+Deck
+<contents>
 ```

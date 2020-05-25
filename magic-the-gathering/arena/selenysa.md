@@ -1,7 +1,7 @@
 # Selesnya
 
 ### Adventures in Selesnya
-> Deck description
+> Built around the *Adventure* keyword.
 ```
 Deck
 12 Plains (ANA) 56
