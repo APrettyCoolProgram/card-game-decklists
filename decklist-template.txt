@@ -3,9 +3,9 @@ DECK NAME
 Deck description.
 ================================================================================
 
----------------------------------------
+------------------------------------------------------------------------------
 MAGIC: THE GATHERING
----------------------------------------
+------------------------------------------------------------------------------
 
 --- STANDARD ----------------- WUBRG ---
 --- HISTORIC ----------------- WUBRG ---
@@ -19,3 +19,28 @@ MAGIC: THE GATHERING
 --- LIMITED ------------------ WUBRG ---
 --- PAUPER ------------------- WUBRG ---
 --- TRADITIONAL HISTORIC ----- WUBRG ---
+
+White + Blue = Azorius
+Blue + Black = Dimir
+Black + Red = Rakdos
+Red + Green = Gruul
+Green + White = Selesnya
+White + Black = Orzhov
+Blue + Red = Izzet
+Black + Green = Golgari
+Red + White = Boros
+Green + Blue = Simic
+
+Red + green + black = Jund
+White + green + blue = Bant
+Black + red + blue = Grixis
+Green + white + red = Naya
+Blue + white + black = Esper
+Blue + red + white = Jeskai
+Red + white + black = Mardu
+Black + green + blue = Sultai
+Green + blue + red = Temur
+White + black + green = Abzan
+
+
+```
