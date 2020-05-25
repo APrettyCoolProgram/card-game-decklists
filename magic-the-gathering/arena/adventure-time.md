@@ -1,8 +1,9 @@
-# SELENYSA ADVENTURES
-Seleysna decks built around cards with the Adventure keyword.
+# SELENYSA
 
+### Adventures in Seleysna
+Just a deck
 ```
-Deck
+deck
 12 Plains (ANA) 56
 3 Flaxen Intruder (ELD) 155
 4 Curious Pair (ELD) 150
