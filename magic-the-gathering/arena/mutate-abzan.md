@@ -1,5 +1,5 @@
 # Mutate:Abzan
-Abzan colors that focus on the *mutating* keyword.
+Abzan colors around the *mutating* keyword.
 
 ### Standard
 ```

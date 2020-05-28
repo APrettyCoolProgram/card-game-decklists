@@ -1,5 +1,5 @@
 # Widespread Brutality
-A deck build around the card *Widespread Brutality*.
+A deck built around the card *Widespread Brutality*.
 
 ### Standard
 ```
