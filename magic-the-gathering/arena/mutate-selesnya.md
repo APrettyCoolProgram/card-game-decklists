@@ -1,5 +1,5 @@
 # Mutate:Selesnya
-Selesnya colors that focus on the *mutate* keyword.
+## Selesnya colors that focus on the *mutate* keyword.
 
 ### Standard
 ```
