@@ -1,5 +1,5 @@
 # Mutate:Abzan
-Abzan colors around the ***mutate*** keyword.
+Abzan colors around the [Mutate](https://mtg.gamepedia.com/Mutate) keyword.
 
 ### Standard
 > Just a regular, standard deck.
