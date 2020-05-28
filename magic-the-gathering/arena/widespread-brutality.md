@@ -1,7 +1,8 @@
 # Widespread Brutality
-A deck built around the card *Widespread Brutality*.
+A deck built around [**Widespread Brutality**](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461153).
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 4 Widespread Brutality (WAR) 226
