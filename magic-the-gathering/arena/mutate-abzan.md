@@ -1,5 +1,5 @@
 # Mutate:Abzan
-Abzan colors that focus on mutating creatures.
+Abzan colors that focus on the *mutating* keyword.
 
 ### Standard
 ```
@@ -26,15 +26,3 @@ Deck
 1 Temple of Silence (M20) 256
 4 Boneyard Lurker (IKO) 178
 ```
-
---- HISTORIC ---------------------------
---- TRADITIONAL STANDARD ---------------
---- SINGLETON --------------------------
---- BRAWL ------------------------------
---- FRIENDLY BRAWL ---------------------
---- DIRECT GAME ------------------------
---- HISTORIC ARTISAN -------------------
---- ARTISAN ----------------------------
---- LIMITED ----------------------------
---- PAUPER =----------------------------
---- TRADITIONAL HISTORIC ---------------
