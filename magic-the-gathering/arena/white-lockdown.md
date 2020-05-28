@@ -1,4 +1,4 @@
-# Lockdown
+# White:Lockdown
 Lock the opponent down.
 
 ### Standard
