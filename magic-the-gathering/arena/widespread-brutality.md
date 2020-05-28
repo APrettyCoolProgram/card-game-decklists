@@ -1,5 +1,5 @@
 # Widespread Brutality
-A deck built around [**Widespread Brutality**](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461153).
+A deck built around [Widespread Brutality](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461153).
 
 ### Standard
 > Just a regular, standard deck.
