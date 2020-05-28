@@ -2,6 +2,7 @@
 Lock the opponent down.
 
 ### Standard
+```
 Deck
 2 Dawn of Hope (GRN) 8
 4 Pacifism (M20) 32
@@ -19,3 +20,4 @@ Deck
 4 Fabled Passage (ELD) 244
 1 Daxos, Blessed by the Sun (THB) 9
 2 Ardenvale Tactician (ELD) 5
+```
