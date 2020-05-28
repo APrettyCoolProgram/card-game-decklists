@@ -25,7 +25,7 @@ Deck
 ```
 
 ### Historic Artisan
-This deck was created for the FNM At Home event on May 22, 2020.
+> This deck was created for the FNM At Home event on May 22, 2020.
 ```
 Deck
 2 Auspicious Starrix (IKO) 144
