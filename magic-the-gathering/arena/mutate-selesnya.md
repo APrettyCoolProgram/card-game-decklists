@@ -2,6 +2,7 @@
 Selesnya colors that focus on the *mutate* keyword.
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 2 Auspicious Starrix (IKO) 144

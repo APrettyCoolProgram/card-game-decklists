@@ -1,7 +1,8 @@
 # Mutate:Abzan
-Abzan colors around the *mutate* keyword.
+Abzan colors around the ***mutate*** keyword.
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 2 Cubwarden (IKO) 7
