@@ -2,6 +2,7 @@
 Deathtouch cards built around the card *Bake Into a Pie*.
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 2 Garruk, Cursed Huntsman (ELD) 191

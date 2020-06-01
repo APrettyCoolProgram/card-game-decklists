@@ -1,5 +1,5 @@
 # Mutate:Selesnya
-Selesnya colors that focus on the ***mutate*** keyword.
+Selesnya colors around the [Mutate](https://mtg.gamepedia.com/Mutate) keyword.
 
 ### Standard
 > Just a regular, standard deck.

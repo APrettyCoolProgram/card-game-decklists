@@ -1,7 +1,8 @@
 # Lockdown
-Lock the opponent down.
+Mono-white deck designed to lock your opponent down while dealing damage.
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 2 Dawn of Hope (GRN) 8

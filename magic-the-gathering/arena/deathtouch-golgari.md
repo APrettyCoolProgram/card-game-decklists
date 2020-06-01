@@ -2,6 +2,7 @@
 Golgari colors around the *deathtouch* keyword.
 
 ### Standard
+> Just a regular, standard deck.
 ```
 Deck
 2 Garruk, Cursed Huntsman (ELD) 191
