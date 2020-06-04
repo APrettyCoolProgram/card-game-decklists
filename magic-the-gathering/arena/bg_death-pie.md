@@ -1,5 +1,5 @@
-# Death Pie
-Deathtouch cards built around the card *Bake Into a Pie*.
+# bg_Death Pie
+Built around the card *Bake Into a Pie*.
 
 ### Standard
 > Just a regular, standard deck.
@@ -19,4 +19,5 @@ Deck
 4 Sedge Scorpion (M20) 192
 4 Return to Nature (WAR) 175
 4 Hired Poisoner (GRN) 72
+
 ```

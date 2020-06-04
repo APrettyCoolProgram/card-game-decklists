@@ -21,4 +21,5 @@ Deck
 2 Temple of Malice (THB) 247
 2 Fabled Passage (ELD) 244
 2 Mirror Shield (THB) 234
+
 ```

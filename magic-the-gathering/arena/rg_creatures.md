@@ -1,3 +1,9 @@
+# rg_Creatures
+A bunch of creatures.
+
+### Standard
+> Just a regular, standard deck.
+```
 Deck
 1 Nikya of the Old Ways (RNA) 193
 7 Forest (ANA) 60
@@ -21,3 +27,5 @@ Deck
 2 Temple of Abandon (THB) 244
 2 Fabled Passage (ELD) 244
 2 Portent of Betrayal (THB) 149
+
+```

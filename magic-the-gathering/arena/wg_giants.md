@@ -1,4 +1,4 @@
-# Lockdown
+# wg_Giants
 Selesnya giants.
 
 ### Standard
@@ -6,10 +6,10 @@ Selesnya giants.
 ```
 Deck
 4 Bulwark Giant (WAR) 7
-12 Forest (IKO) 274
+10 Forest (ANA) 60
 4 Realm-Cloaked Giant (ELD) 26
 4 Beanstalk Giant (ELD) 149
-12 Plains (IKO) 262
+10 Plains (ANA) 56
 4 Howling Giant (M20) 177
 4 Rumbling Sentry (THB) 35
 2 Crystalline Giant (IKO) 234
@@ -18,5 +18,7 @@ Deck
 4 Pacifism (IKO) 25
 3 Root Snare (RNA) 137
 1 Root Snare (M19) 199
+2 Temple of Plenty (THB) 248
+2 Blossoming Sands (M20) 243
 
 ```

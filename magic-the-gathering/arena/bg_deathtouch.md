@@ -1,17 +1,17 @@
-# Deathtouch:Golgari
-Golgari colors around the *deathtouch* keyword.
+# bg_Deathtouch
+Built around the *deathtouch* keyword.
 
 ### Standard
 > Just a regular, standard deck.
 ```
 Deck
 2 Garruk, Cursed Huntsman (ELD) 191
-11 Swamp (ANA) 58
 10 Forest (ANA) 60
+10 Swamp (ANA) 58
 2 Vraska, Golgari Queen (GRN) 213
 1 Vraska, Regal Gorgon (GRN) 269
 2 Overgrown Tomb (GRN) 253
-1 Temple of Malady (M20) 254
+2 Temple of Malady (M20) 254
 2 Knight of the Ebon Legion (M20) 105
 4 Vampire of the Dire Moon (M20) 120
 2 Orzhov Enforcer (RNA) 79
@@ -22,4 +22,5 @@ Deck
 3 Ochran Assassin (GRN) 194
 4 Hired Poisoner (GRN) 72
 4 Sedge Scorpion (M20) 192
+
 ```

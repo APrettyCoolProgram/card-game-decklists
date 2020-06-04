@@ -1,28 +1,28 @@
-# Mutate:Selesnya
+# wg_Mutators
 Selesnya colors around the [Mutate](https://mtg.gamepedia.com/Mutate) keyword.
 
 ### Standard
 > Just a regular, standard deck.
 ```
 Deck
-2 Auspicious Starrix (IKO) 144
-8 Plains (IKO) 262
+3 Auspicious Starrix (IKO) 144
+9 Plains (ANA) 56
 4 Migratory Greathorn (IKO) 165
 4 Glowstone Recluse (IKO) 156
-2 Luminous Bonds (RIX) 12
+3 Luminous Bonds (RIX) 12
 4 Vulpikeet (IKO) 37
-8 Forest (IKO) 274
+9 Forest (ANA) 60
 4 Huntmaster Liger (IKO) 16
-2 Rumbling Sentry (THB) 35
-4 Bulwark Giant (WAR) 7
-2 Beanstalk Giant (ELD) 149
-2 Howling Giant (M20) 177
-2 Realm-Cloaked Giant (ELD) 26
+2 Temple of Plenty (THB) 248
+2 Gemrazer (IKO) 155
+2 Cubwarden (IKO) 7
+1 Root Snare (M19) 199
 2 Blossoming Sands (M20) 243
-2 Evolving Wilds (RIX) 186
+2 Fabled Passage (ELD) 244
 4 Pacifism (IKO) 25
 2 The Birth of Meletis (THB) 5
-2 Root Snare (RNA) 137
+3 Root Snare (RNA) 137
+
 ```
 
 ### Historic Artisan
@@ -48,4 +48,5 @@ Deck
 2 Nyx-Fleece Ram (JOU) 18
 2 The Birth of Meletis (THB) 5
 2 Root Snare (RNA) 137
+
 ```

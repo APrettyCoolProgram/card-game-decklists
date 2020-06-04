@@ -1,6 +1,12 @@
+# wr_Knights & Soldiers
+Just knights and soldiers.
+
+### Standard
+> Just a regular, standard deck.
+```
 Deck
-12 Plains (IKO) 262
-12 Mountain (IKO) 271
+11 Mountain (ANA) 59
+11 Plains (ANA) 56
 4 Boros Challenger (GRN) 156
 4 Fresh-Faced Recruit (GRN) 216
 4 Inspiring Veteran (ELD) 194
@@ -12,3 +18,6 @@ Deck
 2 Hammer Dropper (GRN) 176
 3 Truefire Captain (GRN) 209
 2 Swathcutter Giant (GRN) 202
+2 Temple of Triumph (M20) 257
+
+```

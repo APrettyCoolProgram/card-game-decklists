@@ -6,7 +6,7 @@ Mono-white deck designed to lock your opponent down while dealing damage.
 ```
 Deck
 2 Dawn of Hope (GRN) 8
-4 Pacifism (M20) 32
+4 Pacifism (IKO) 25
 4 Prison Realm (WAR) 26
 1 God-Eternal Oketra (WAR) 16
 4 Dreadful Apathy (THB) 11
@@ -21,4 +21,5 @@ Deck
 4 Fabled Passage (ELD) 244
 1 Daxos, Blessed by the Sun (THB) 9
 2 Ardenvale Tactician (ELD) 5
+
 ```
