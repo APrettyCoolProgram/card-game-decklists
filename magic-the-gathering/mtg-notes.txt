@@ -34,21 +34,27 @@ Deck
 ```
 
 ========================================
+DECK NAME
+========================================
+
+name-of-a-deck-1_stwubrg
+
+========================================
 GAME TYPES
 ========================================
 
---- STANDARD 
---- HISTORIC
---- TRADITIONAL STANDARD
---- SINGLETON
---- BRAWL
---- FRIENDLY BRAWL
---- DIRECT GAME
---- HISTORIC ARTISAN
---- ARTISAN
---- LIMITED
---- PAUPER
---- TRADITIONAL HISTORIC
+_st STANDARD 
+_hs HISTORIC
+_ts TRADITIONAL STANDARD
+_sg SINGLETON
+_br BRAWL
+_fb FRIENDLY BRAWL
+_dg DIRECT GAME
+_ha HISTORIC ARTISAN
+_ar ARTISAN
+_lt LIMITED
+_pr PAUPER
+_th TRADITIONAL HISTORIC
 
 ========================================
 COLOR COMBINATIONS
@@ -76,8 +82,6 @@ BGU = Sultai
 GUR = Temur
 WBG = Abzan
 
-
-
     Artifice ({W}{U}{B}{R})
     Chaos ({U}{B}{R}{G})
     Aggression ({B}{R}{G}{W})
@@ -102,43 +106,37 @@ Menace              --XX-
 Protection          X----
 Prowess             -X-X-
 Reach               ---XX
+Surveil
 Trample             ---XX
 Vigilance           X---X
+
+Addendum
+Cycle
+Gate
+Mentor
+Mutate
+Surveil
+
+counter spell
+counters
+
 
 
 ========================================
 DECK IDEAS
 ========================================
 
-Giant:Boros
+--------------------
+TRIBE
+--------------------
+Fox
+Giant
     Swathcutter Giant
+Golem
 
-
-Mutate
-
-
-
-Azorius
-Dimir
-Rakdos
-Gruul
-Selesnya
-Orzhov
-Izzet
-Golgari
-Boros
-Simic
-
-Jund
-Bant
-Grixis
-Naya
-Esper
-Jeskai
-Mardu
-Sultai
-Temur
-Abzan
+--------------------
+KEYWORD
+--------------------
 
 
 
@@ -146,7 +144,7 @@ Abzan
 --------------------
 CARDS
 --------------------
-Dreadhoarde Anarchist
+Dreadhoarde Arcanist
 Pledge of Unity
 Shatter the Sky
 March of the Multitudes
@@ -169,8 +167,7 @@ Dungeon Geists
 Kroxa
 Tentative Connection
 Migration Path
-
-
+Summary Judegement
 
 --------------------
 COMMANDERS
@@ -181,39 +178,6 @@ COMPANIONS
 --------------------
 
 --------------------
-TRIBES
---------------------
-Artifacts
-Giants
-    
-Golem
-Fox
-
---------------------
-KEYWORDS
---------------------
-Mutate
-Surveil
-Flash
-Gate
-cycle
-counter spell
-counters
-Mentor
-
---------------------
-MOVIES
---------------------
-
---------------------
-SONGS
---------------------
-
---------------------
-BOOKS
---------------------
-
---------------------
 THEMES
 --------------------
 Vampires with Hats
@@ -221,43 +185,3 @@ Mutating <animal>
 Classic monsters
 Control other creatures
 Graveyeard
-
-
-
-=======================
-Backburner
-=======================
-
---------------------
-CARDS
---------------------
-Dreadhoarde Anarchist
-Settle the Wreckage
-
---------------------
-TRIBES
---------------------
-
-
---------------------
-KEYWORDS
---------------------
-
-
---------------------
-MOVIES
---------------------
-Sharknado
-
---------------------
-SONGS
---------------------
-
---------------------
-BOOKS
---------------------
-
---------------------
-THEMES
---------------------
-
