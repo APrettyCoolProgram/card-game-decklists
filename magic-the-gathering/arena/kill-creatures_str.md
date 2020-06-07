@@ -1,8 +1,8 @@
 # Kill Creatures_str
 A bunch of creatures.
 
-### Standard
-> Just a regular, standard deck.
+### Standard 6-7-20
+> Description goes here.
 ```
 Deck
 4 Chandra's Pyrohelix (WAR) 120

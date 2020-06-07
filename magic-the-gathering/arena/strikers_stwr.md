@@ -1,8 +1,8 @@
-# wr_Knights & Soldiers
-Just knights and soldiers.
+# Strikers_stwr
+First Strike and Double Strike keywords
 
-### Standard
-> Just a regular, standard deck.
+### Standard 6-7-20
+> Description goes here.
 ```
 Deck
 3 Fencing Ace (M20) 16

@@ -1,8 +1,8 @@
 # Drakuseth_str
-A bunch of creatures.
+Built around [Drakuseth](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466890)
 
-### Standard
-> Just a regular, standard deck.
+### Standard 6-7-20
+> Description goes here.
 ```
 Deck
 4 Shock (M19) 156

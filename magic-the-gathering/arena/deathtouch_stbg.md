@@ -2,7 +2,7 @@
 Built around the *deathtouch* keyword.
 
 ### Standard
-> Just a regular, standard deck.
+> Description goes here.
 ```
 Deck
 2 Garruk, Cursed Huntsman (ELD) 191
