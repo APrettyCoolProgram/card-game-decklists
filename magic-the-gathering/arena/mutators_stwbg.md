@@ -13,7 +13,7 @@ Deck
 7 Swamp (ANA) 58
 2 Insatiable Hemophage (IKO) 93
 4 Chittering Harvester (IKO) 80
-3 Cavern Whisperer (IKO) 79
+1 Cavern Whisperer (IKO) 79
 3 Plains (ANA) 56
 4 Glowstone Recluse (IKO) 156
 2 Gemrazer (IKO) 155
@@ -26,5 +26,7 @@ Deck
 1 Temple of Silence (M20) 256
 4 Boneyard Lurker (IKO) 178
 1 Lotus Field (M20) 249
+1 Majestic Auricorn (IKO) 22
+1 Nethroi, Apex of Death (IKO) 197
 
 ```
