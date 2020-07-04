@@ -1,8 +1,8 @@
 # Pitiless Deathtouch
-Build around [Pitiless Gorgon](https://gatherer.wizards.com/pages/Card/Details.aspx?multiverseid=452968)
+A mono-black deathtouch deck, named after [Pitiless Gorgon](https://gatherer.wizards.com/pages/Card/Details.aspx?multiverseid=452968).
 
 ### Historic
-> v1.0
+> v1.0 (7-4-20)
 ```
 Deck
 1 Feral Abomination (M20) 101
