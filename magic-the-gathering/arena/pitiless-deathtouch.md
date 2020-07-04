@@ -1,8 +1,8 @@
 # Pitiless Deathtouch
 A mono-black deathtouch deck, named after [Pitiless Gorgon](https://gatherer.wizards.com/pages/Card/Details.aspx?multiverseid=452968).
 
-# Historic
-### v1.0
+## Historic
+### v1.0: Pitiless Gorgon
 This is a description.
 ```
 Deck
