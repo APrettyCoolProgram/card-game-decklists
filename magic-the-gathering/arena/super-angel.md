@@ -3,7 +3,7 @@ A mono-white angel deck.
 
 ## Historic
 ### b200704: Super Angel
-This is a description.
+Original historic **Super Angel** deck.
 ```
 Deck
 4 Divine Visitation (GRN) 10
