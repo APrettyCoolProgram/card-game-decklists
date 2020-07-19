@@ -6,27 +6,25 @@
 **Classes**: Cleric, Soldier<br>
 **Keywords**: <br>
 
-## Win condition
+## Win conditions
 ### Main: Bishop of Wings + Divine Visitation
 Get [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) on the battlefield, then use [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788), [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987), [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) and [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284) to get a shitload of angels on the battlefield, gaining life for each token.
 
-#### Secondary: Tokens
+### Secondary: Tokens
 If you don't pull Bishop of Wings and/or Divine Visitation within the first few turns, you can try and overrun your oppoents with tokens created by  [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788), [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987), [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) and [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284).
 
-#### Tertiary: None
+### Tertiary: None
 That's it!
 
 ## Other cards
 * [Hanged Executioner](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466776): Flying, may create an Angel token, and allows you to exile an oppoent creature.
 * [Nyx Lotus](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486): Depending on your devotion to white, this can provide a ton of mana
-* [Pacifism](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479545) Stop opponent creatures.
+* [Pacifism](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479545): Stop opponent creatures.
+* [Secluded Steppe](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=41137): Maybe give land, or cycle
 
 
 
-4 Nyx Lotus (THB) 235
-2 Pacifism (IKO) 25
 2 Secluded Steppe (ONS) 324
-1 Omen of the Sun (THB) 30
 
 
 ## Notes
