@@ -8,7 +8,24 @@
 
 ## Deck
 ```
-Deck [b200719]
+Deck [b200716]
+4 Divine Visitation (GRN) 10
+20 Plains (UST) 212
+4 Raise the Alarm (M20) 34
+4 Bishop of Wings (M20) 8
+4 Rally for the Throne (ELD) 25
+4 Sworn Companions (GRN) 27
+4 Reverent Hoplite (THB) 33
+2 Nyx Lotus (THB) 235
+4 Pacifism (IKO) 25
+1 Teyo, the Shieldmage (WAR) 32
+4 Confront the Assault (ANA) 3
+4 Secluded Steppe (ONS) 324
+1 Basri Ket (M21) 7
+```
+
+```
+Deck [b200716]
 4 Divine Visitation (GRN) 10
 22 Plains (ANA) 56
 4 Raise the Alarm (M20) 34
@@ -32,17 +49,18 @@ Get these onto the board:
 * [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)
 * [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) 
 
-Then use these to get a shitload of angels on the battlefield, gaining life for each token
+Then use these to get a shitload of angels on the battlefield, gaining life for each token:
 * [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788)
 * [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987)
 * [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) * [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284) 
+* [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284)
 
 ### SECONDARY: Tokens
 If you don't pull Bishop of Wings and/or Divine Visitation within the first few turns, you can try and overrun your oppoents with tokens created by:
 * [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788)
 * [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987)
 * [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777)
-* [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284).
+* [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284)
 
 ### TERTIARY: None
 That's it!
