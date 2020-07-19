@@ -8,11 +8,11 @@
 
 ## Win condition
 **Main**<br>
-Bishop of Wings/Divine Visitation
+Bishop of Wings/Divine Visitation<br>
 **Secondary**<br>
-Bishop of Wings/Divine Visitation
+Bishop of Wings/Divine Visitation<br>
 **Tertiary**<br>
-Bishop of Wings/Divine Visitation
+Bishop of Wings/Divine Visitation<br>
 
 ## Main: Bishop of Wings/Divine Visitation
 The idea here is to:
