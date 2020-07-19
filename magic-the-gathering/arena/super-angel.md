@@ -7,16 +7,17 @@
 **Keywords**: <br>
 
 ## Win conditions
-#### Main
+### Main
 [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
 This is a test
 
-Secondary win condition: [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
-This is a test
+### Secondary
 
-Tertiary win condition:[Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
-This is a test
+### Tertiary
 
+## Cards
+
+## Deck
 ```
 Deck [b200719]
 4 Divine Visitation (GRN) 10
