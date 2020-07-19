@@ -1,4 +1,4 @@
-# Super Angel
+# Divinity Bishop
 
 ## Details
 **Colors** : White<br>
