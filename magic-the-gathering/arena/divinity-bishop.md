@@ -27,7 +27,7 @@ Deck [b200719]
 ```
 
 ## Win conditions
-### Bishop of Wings + Divine Visitation
+### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
 * [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)
 * [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) 
@@ -37,14 +37,14 @@ Then use these to get a shitload of angels on the battlefield, gaining life for 
 * [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987)
 * [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) * [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284) 
 
-### Secondary win condition: Tokens
+### SECONDARY: Tokens
 If you don't pull Bishop of Wings and/or Divine Visitation within the first few turns, you can try and overrun your oppoents with tokens created by:
 * [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788)
 * [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987)
 * [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777)
 * [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284).
 
-### Tertiary win condition: None
+### TERTIARY: None
 That's it!
 
 ## Other cards
