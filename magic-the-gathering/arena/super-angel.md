@@ -6,17 +6,12 @@
 **Classes**: Cleric, Soldier<br>
 **Keywords**: <br>
 
-## Win condition
+## Win conditions
 [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
-This is a test
-
-### Secondary
-[Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
-This is a test
-
-### Tertiary
-[Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
-This is a test
+The idea here is to:
+1. Get a [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) out
+2. Get a [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) out
+3. Create a shitload of Angel tokens, gaining life with each one
 
 ## Cards
 
