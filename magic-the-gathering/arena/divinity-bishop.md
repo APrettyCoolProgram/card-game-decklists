@@ -7,12 +7,9 @@
 **Keywords**: <br>
 
 ## Win condition
-**Main**<br>
-Bishop of Wings/Divine Visitation<br>
-**Secondary**<br>
-Bishop of Wings/Divine Visitation<br>
-**Tertiary**<br>
-Bishop of Wings/Divine Visitation<br>
+**Main**: Bishop of Wings/Divine Visitation<br>
+**Secondary**<br>: [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
+**Tertiary**<br> :Bishop of Wings/Divine Visitation<br>
 
 ## Main: Bishop of Wings/Divine Visitation
 The idea here is to:
