@@ -1,13 +1,13 @@
 # Super Angel
 
-### Details
+## Details
 **Colors** : White<br>
 **Creatures**: Angel, Human, Spirit<br>
 **Classes**: Cleric, Soldier<br>
 **Keywords**: <br>
 
 ## Win conditions
-### Main
+#### Main
 [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
 This is a test
 
