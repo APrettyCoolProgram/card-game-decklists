@@ -7,9 +7,12 @@
 **Keywords**: <br>
 
 ## Win condition
-Main: Bishop of Wings/Divine Visitation
-Secondary: Bishop of Wings/Divine Visitation
-Tertiary: Bishop of Wings/Divine Visitation
+**Main**
+Bishop of Wings/Divine Visitation
+**Secondary**
+Bishop of Wings/Divine Visitation
+**Tertiary**
+Bishop of Wings/Divine Visitation
 
 ## Main: Bishop of Wings/Divine Visitation
 The idea here is to:
