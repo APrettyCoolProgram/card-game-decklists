@@ -7,12 +7,13 @@
 **Keywords**: <br>
 
 ## Win condition
-### Main: Bishop of Wings + Divine Visitation<br>
+### Main: Bishop of Wings + Divine Visitation
 The idea here is to:
 1. Get [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) on the battlefield
-3. Use [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788), [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987), [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) and [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284) to get a shitload of angels on the battlefield
+3. Use [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788), [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987), [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) and [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284) to get a shitload of angels on the battlefield, gaining life for each token.
 
-
+### Secondary: Tokens
+If you don't pull Bishop of Wings and/or Divine Visitation within the first few turns, you can try and overrun your oppoents with tokens created by  [Raise the Alarm](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466788), [Rally for the Throne](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472987), [Sworn Companions](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452777) and [Reverent Hoplite](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476284).
 
 
 
