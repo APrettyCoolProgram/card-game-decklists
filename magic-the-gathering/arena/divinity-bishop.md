@@ -24,8 +24,6 @@ Deck [b200716]
 1 Basri Ket (M21) 7
 ```
 
-`
-
 ## Win conditions
 ### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
