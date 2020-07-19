@@ -7,7 +7,7 @@
 **Keywords**: <br>
 
 ## Win condition(s)
-### [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
+### Main: Bishop of Wings/Divine Visitation
 The idea here is to:
 1. Get a [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) out
 2. Get a [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) out
