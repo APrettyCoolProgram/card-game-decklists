@@ -1,9 +1,9 @@
 # Super Angel
 
-Colors: White
-Creatures: Angel, Human, Spirit
-Classes: Cleric, Soldier
-Keywords: 
+Colors: White<br>
+Creatures: Angel, Human, Spirit<br>
+Classes: Cleric, Soldier<br>
+Keywords: <br>
 
 
 |               |                      |
