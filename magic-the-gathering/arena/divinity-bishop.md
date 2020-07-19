@@ -7,11 +7,11 @@
 **Keywords**: <br>
 
 ## Win condition
-**Main**
+**Main**<br>
 Bishop of Wings/Divine Visitation
-**Secondary**
+**Secondary**<br>
 Bishop of Wings/Divine Visitation
-**Tertiary**
+**Tertiary**<br>
 Bishop of Wings/Divine Visitation
 
 ## Main: Bishop of Wings/Divine Visitation
