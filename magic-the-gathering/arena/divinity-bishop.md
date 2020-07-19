@@ -7,15 +7,16 @@
 **Keywords**: <br>
 
 ## Win condition
-**Main**: Bishop of Wings/Divine Visitation<br>
+**Main**<br>
+Bishop of Wings/Divine Visitation<br>
 The idea here is to:
 1. Get a [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) out
 2. Get a [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) out
 3. Create a shitload of Angel tokens, gaining life with each one
 
-**Secondary**: [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
+### Secondary: [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)/[Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
 
-**Tertiary**: Bishop of Wings/Divine Visitation<br>
+#### Tertiary: Bishop of Wings/Divine Visitation<br>
 
 ## Cards
 
