@@ -1,9 +1,9 @@
 # Super Angel
 A mono-white Angel deck
 
-### Historic
+### HISTORIC
 Main win condition:
-* [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)
+* [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) and [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760)<br>
 This is a test
 
 ```
