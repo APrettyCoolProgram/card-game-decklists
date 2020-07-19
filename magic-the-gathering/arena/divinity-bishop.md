@@ -6,8 +6,12 @@
 **Classes**: Cleric, Soldier<br>
 **Keywords**: <br>
 
-## Win condition(s)
-### Main: Bishop of Wings/Divine Visitation
+## Win condition
+Main: Bishop of Wings/Divine Visitation
+Secondary: Bishop of Wings/Divine Visitation
+Tertiary: Bishop of Wings/Divine Visitation
+
+## Main: Bishop of Wings/Divine Visitation
 The idea here is to:
 1. Get a [Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762) out
 2. Get a [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) out
