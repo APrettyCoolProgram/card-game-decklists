@@ -28,8 +28,9 @@ Deck [b200716]
 ### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
 
-<div align="center">
-  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" alt="CrispyDeven Logo Image and Text" width="200">
+<div align="left">
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" width="200">
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452760&type=card" width="200">
 </div>
 
 
