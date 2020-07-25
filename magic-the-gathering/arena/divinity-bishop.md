@@ -3,13 +3,16 @@
 ## Details
 **Colors**
 * White
-**Creatures**
+
+**Creatures** : Yes
 * Angel
 * Human
 * Spirit
+
 **Classes**
 * Cleric
-* Soldier<br>
+* Soldier
+
 **Planeswalkers** : <br>
 **Keywords** : <br>
 
