@@ -1,10 +1,17 @@
 # Divinity Bishop
 
 ## Details
-**Colors** : White<br>
-**Creatures**: Angel, Human, Spirit<br>
-**Classes**: Cleric, Soldier<br>
-**Keywords**: <br>
+**Colors**
+* White
+**Creatures**
+* Angel
+* Human
+* Spirit
+**Classes**
+* Cleric
+* Soldier<br>
+**Planeswalkers** : <br>
+**Keywords** : <br>
 
 ## Deck
 ```
