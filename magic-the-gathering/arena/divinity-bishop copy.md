@@ -1,5 +1,4 @@
 # Divinity Bishop
-![s](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
 
 ## Details
 **Colors** : White<br>
