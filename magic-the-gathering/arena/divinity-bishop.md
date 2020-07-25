@@ -27,6 +27,12 @@ Deck [b200716]
 ## Win conditions
 ### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
+
+<div align="center">
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" alt="CrispyDeven Logo Image and Text" width="100"></a>
+</div>
+
+
 * ![Bishop of Wings](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
 * [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) 
 
