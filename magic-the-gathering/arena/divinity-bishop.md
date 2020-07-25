@@ -29,8 +29,8 @@ Deck [b200716]
 Get these onto the board:
 
 <div align="left">
-  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" width="200">
-  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452760&type=card" width="200">
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" width="150">
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452760&type=card" width="150">
 </div>
 
 
