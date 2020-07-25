@@ -28,13 +28,16 @@ Deck [b200716]
 ### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
 
+<!--
+
 <div align="left">
   <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" width="175">
   <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=452760&type=card" width="175">
 </div>
 
+-->
 
-* ![Bishop of Wings](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
+* [Bishop of Wings](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&)
 * [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) 
 
 Then use these to get a shitload of angels on the battlefield, gaining life for each token:
