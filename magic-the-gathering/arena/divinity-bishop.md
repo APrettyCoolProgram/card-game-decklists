@@ -29,7 +29,7 @@ Deck [b200716]
 Get these onto the board:
 
 <div align="center">
-  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" alt="CrispyDeven Logo Image and Text" width="100"></a>
+  <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card" alt="CrispyDeven Logo Image and Text" width="200"></a>
 </div>
 
 
