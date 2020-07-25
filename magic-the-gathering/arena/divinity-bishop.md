@@ -27,7 +27,7 @@ Deck [b200716]
 ## Win conditions
 ### MAIN: Bishop of Wings + Divine Visitation
 Get these onto the board:
-* ![Bishop of Wings](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466762)
+* ![Bishop of Wings](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
 * [Divine Visitation](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452760) 
 
 Then use these to get a shitload of angels on the battlefield, gaining life for each token:
