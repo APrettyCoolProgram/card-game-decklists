@@ -1,10 +1,15 @@
-# Pitiless Deathtouch
+# Divinity Bishop
 
-## Details
-**Colors** : White<br>
-**Creatures**: Angel, Human, Spirit<br>
-**Classes**: Cleric, Soldier<br>
-**Keywords**: <br>
+|               |                                                              |
+|--------------:|:-------------------------------------------------------------|
+| **Colors**    | White |
+| **Lands**     | Basic, Non-Basic |
+| **Types**     | Artifact, Creature, Enchantment, Instant, Planeswalker |
+| **Creatures** | Angel, Human, Spirit |
+| **Classes**   | Cleric, Soldier |
+| **Keywords**  | Cycling, Lifelink, Token |
+| **Rarity**    | Common, Uncommon, Rare, Mythic |
+| **Legendary** | Yes |
 
 ## Deck
 ```
@@ -98,11 +103,6 @@ Deck [b200716]
 
 
 ![s](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
-
-
-
-
-
 
 
 
