@@ -1,20 +1,14 @@
 # Divinity Bishop
 
 ## Details
-**Colors**
-* White
-
-**Creatures** : Yes
-* Angel
-* Human
-* Spirit
-
-**Classes**
-* Cleric
-* Soldier
-
-**Planeswalkers** : <br>
-**Keywords** : <br>
+**Colors** : White
+**Land** : Basic, Non-Basic
+**Types** : Artifact, Creature, Enchantment, Instant, Planeswalker
+**Creatures** : Angel, Human, Spirit
+**Classes** : Cleric, Soldier
+**Keywords** : Cycling, Lifelink, Token, 
+**Rarity** : Common, Uncommon, Rare, Mythic
+**Legendary** : Yes
 
 ## Deck
 ```
