@@ -89,16 +89,3 @@ Deck [b200716]
 1 Omen of the Sun (THB) 30
 
 ``
-
-
-
-
-
-
-
-
-
-
-
-
-![s](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466762&type=card)
