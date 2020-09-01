@@ -26,6 +26,3 @@ Deck
 2 Mirari's Wake (JUD) 139
 ```
 ## Archive
-```
-
-```
