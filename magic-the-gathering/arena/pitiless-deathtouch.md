@@ -1,11 +1,7 @@
-# Pitiless Deathtouch
-A mono-black deathtouch deck, named after [Pitiless Gorgon](https://gatherer.wizards.com/pages/Card/Details.aspx?multiverseid=452968).
-
-## Historic
-### b200704: Pitiless Gorgon
-Original historic **Pitiless Deathtouch** deck.
+# Divinity Bishop
+## Deck
 ```
-Deck
+Deck [b200716]
 1 Feral Abomination (M20) 101
 12 Swamp (ANA) 58
 8 Forest (ANA) 60
