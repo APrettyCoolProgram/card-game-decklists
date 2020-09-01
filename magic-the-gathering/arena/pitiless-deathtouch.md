@@ -1,7 +1,6 @@
-# Divinity Bishop
+# Pitiless Deathtouch
 ## Deck
 ```
-Deck [b200716]
 1 Feral Abomination (M20) 101
 12 Swamp (ANA) 58
 8 Forest (ANA) 60

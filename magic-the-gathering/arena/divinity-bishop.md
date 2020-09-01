@@ -1,7 +1,6 @@
 # Divinity Bishop
 ## Deck
 ```
-Deck
 4 Divine Visitation (GRN) 10
 20 Plains (UST) 212
 4 Raise the Alarm (M20) 34
