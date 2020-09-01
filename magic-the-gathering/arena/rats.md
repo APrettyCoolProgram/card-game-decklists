@@ -1,7 +1,6 @@
 # Rats
 ## Deck
 ```
-Deck
 32 Rat Colony (DAR) 101
 10 Swamp (JMP) 59
 4 Pack Rat (RTR) 73

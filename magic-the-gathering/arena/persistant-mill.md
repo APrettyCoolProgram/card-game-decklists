@@ -1,7 +1,6 @@
 # Persistant Mill
 ## Deck
 ```
-Deck
 4 Merfolk Secretkeeper (ELD) 53
 24 Island (UST) 213
 4 Overwhelmed Apprentice (ELD) 60

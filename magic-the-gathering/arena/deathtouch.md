@@ -1,7 +1,6 @@
 # Deathtouch
 ## Deck
 ```
-Deck
 4 Foulmire Knight (ELD) 90
 24 Swamp (UST) 214
 4 Hired Poisoner (GRN) 72
