@@ -1,6 +1,5 @@
 # Weenie
 ## Deck
-Deck
 ```
 4 Cubwarden (IKO) 7
 5 Forest (UST) 216
@@ -27,7 +26,7 @@ Deck
 ```
 
 ## Archive
-Deck [200901]
+[200901]
 ```
 4 Charmed Stray (WAR) 8
 24 Plains (ANB) 115
