@@ -1,12 +1,8 @@
-# Drakuseth_str
-Built around [Drakuseth](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466890)
-
-### Standard 6-7-20
-> Description goes here.
+# Maw of Flames
+## Deck
 ```
-Deck
 4 Shock (M19) 156
-18 Mountain (ANA) 59
+18 Mountain (ANB) 114
 2 Act of Treason (M19) 127
 4 Jaya's Greeting (WAR) 136
 2 Flame Sweep (M20) 139
@@ -24,3 +20,4 @@ Deck
 2 Lotus Field (M20) 249
 
 ```
+## Archive
