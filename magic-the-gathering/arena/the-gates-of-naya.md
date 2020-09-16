@@ -21,5 +21,4 @@ Deck
 4 Jaya's Greeting (WAR) 136
 1 Carnage Tyrant (XLN) 179
 
-
 ```
