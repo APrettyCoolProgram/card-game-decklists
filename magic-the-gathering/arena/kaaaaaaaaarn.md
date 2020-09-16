@@ -1,4 +1,6 @@
-AAAAAAAAAAAARN!
+# KAAAAAAAAARN!
+## Deck
+```
 1 Karn, Scion of Urza (DAR) 1
 1 Karn, the Great Creator (WAR) 1
 1 Steel Overseer (M20) 239
@@ -20,3 +22,5 @@ AAAAAAAAAAAARN!
 3 Sparring Construct (DAR) 232
 4 Field Creeper (M19) 234
 2 Aesthir Glider (DAR) 209
+
+```
