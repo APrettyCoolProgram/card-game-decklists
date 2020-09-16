@@ -1,11 +1,11 @@
-# The Gates
+# The Gates of Naya
 ## Deck
 ```
 Deck
-4 Maze's End (DGM) 152
-4 Orzhov Guildgate (RNA) 253
-4 Rakdos Guildgate (RNA) 255
-4 Golgari Guildgate (GRN) 248
+4 Act of Treason (M19) 127
+4 Luminous Bonds (RIX) 12
+4 Shock (M21) 159
+4 Dreadful Apathy (THB) 11
 3 Gatekeeper Gargoyle (GRN) 235
 4 Gruul Guildgate (RNA) 249
 4 Boros Guildgate (GRN) 243
@@ -20,5 +20,6 @@ Deck
 4 Pacifism (IKO) 25
 4 Jaya's Greeting (WAR) 136
 1 Carnage Tyrant (XLN) 179
+
 
 ```
