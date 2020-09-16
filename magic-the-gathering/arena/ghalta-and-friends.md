@@ -29,5 +29,4 @@ Deck
 1 Charging Tuskodon (RIX) 97
 1 Charging Monstrosaur (XLN) 138
 
-
 ```
