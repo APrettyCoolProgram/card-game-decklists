@@ -1,4 +1,4 @@
-# Maze's End
+# X-mazes-end
 ## Deck
 ```
 Deck

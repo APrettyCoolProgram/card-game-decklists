@@ -1,4 +1,4 @@
-# Ghalta and Friends
+# X-ghalta-and-friends
 ## Deck
 ```
 Deck

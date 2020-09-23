@@ -1,4 +1,4 @@
-# The Gates of Naya
+# X-the-gates-of-naya
 ## Deck
 ```
 Deck
