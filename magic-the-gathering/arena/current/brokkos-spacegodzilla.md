@@ -1,4 +1,4 @@
-# Brokkos
+# Brokkos, Spacegodzilla
 ## Deck
 ```
 2 Boneyard Lurker (IKO) 178

@@ -1,4 +1,6 @@
-200429
+# Selesnya Giants
+## Deck
+```
 2 Howling Giant (M20) 177
 11 Forest (ANA) 60
 2 Beanstalk Giant (ELD) 149
@@ -18,7 +20,9 @@
 2 Pacifism (M20) 32
 4 Flower // Flourish (GRN) 226
 
-200428
+```
+## Archive
+### 200428
 2 Howling Giant (M20) 177
 9 Forest (ANA) 60
 2 Beanstalk Giant (ELD) 149
