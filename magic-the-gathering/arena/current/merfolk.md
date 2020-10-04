@@ -1,10 +1,6 @@
 # Merfolk
-
-
-### Standard
-> Just a regular, standard deck.
+## Deck
 ```
-Deck
 4 Merfolk Mistbinder (RIX) 164
 6 Island (ANA) 57
 8 Forest (ANA) 60
@@ -26,3 +22,4 @@ Deck
 2 Tranquil Thicket (ONS) 326
 
 ```
+## Archive
