@@ -1,9 +1,10 @@
 # Merfolk
 ## Deck
 ```
+Deck
 4 Merfolk Mistbinder (RIX) 164
-6 Island (ANA) 57
-8 Forest (ANA) 60
+6 Island (UST) 213
+8 Forest (UST) 216
 4 Merfolk Skydiver (WAR) 205
 2 Thornwood Falls (ELD) 313
 2 Vineshaper Mystic (XLN) 214
