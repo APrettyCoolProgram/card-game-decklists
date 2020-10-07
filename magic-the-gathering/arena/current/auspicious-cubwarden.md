@@ -29,4 +29,4 @@
 
 
 
-![Cubwarden](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479527)
+![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card)
