@@ -29,7 +29,7 @@
 
 
 
-![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card) 1x <br>
+![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card) # 1x <br>
 ![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card) 2x <br>
 ![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card) 3x <br>
 ![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card) 4x <br>
