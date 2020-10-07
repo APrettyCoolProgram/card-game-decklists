@@ -1,7 +1,10 @@
-8 Plains (ANA) 56
+# Azorius Birds
+## Deck
+```
+8 Plains (UST) 212
 4 Healer's Hawk (GRN) 14
 4 Sky Theater Strix (WAR) 67
-8 Island (ANA) 57
+8 Island (UST) 213
 2 Rally of Wings (WAR) 27
 4 Senate Courier (RNA) 50
 4 Warden of Evos Isle (M20) 79
@@ -16,3 +19,6 @@
 2 Tranquil Cove (M20) 259
 1 Idyllic Grange (ELD) 246
 1 Mystic Sanctuary (ELD) 247
+
+```
+## Archive
