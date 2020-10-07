@@ -30,3 +30,6 @@
 
 
 ![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card)
+![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card)
+![Cubwarden](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=479527&type=card)
+<br> 1x 2x 3x
