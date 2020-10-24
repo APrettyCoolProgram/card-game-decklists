@@ -16,8 +16,8 @@
 2 Wasteland Scorpion (AKR) 135
 2 Bone Picker (JMP) 212
 ```
-# Archive
-## 201024
+## Archive
+### 201024
 ```
 20 Swamp (UST) 214
 4 Hired Poisoner (GRN) 72
@@ -36,7 +36,7 @@
 2 Bone Picker (JMP) 212
 ```
 
-## 200923
+### 200923
 ```
 4 Foulmire Knight (ELD) 90
 24 Swamp (UST) 214
