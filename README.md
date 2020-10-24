@@ -46,6 +46,16 @@ This is a collection of decklists for various card games.
 
 </details>
 
+<details>
+<summary>Other information</summary>
+
+* [Concepts & Ideas](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/concepts-and-ideas.md)
+* [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/data-notes.md)
+
+</details>
+
+
+
 # DEVELOPMENT
 A blurb about development can go here.
 
