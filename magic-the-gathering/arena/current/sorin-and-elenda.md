@@ -1,8 +1,8 @@
-200504
-12 Swamp (ANA) 63
+# Sorin & Elenda
+## Deck
+```
 1 Sorin, Vampire Lord (M20) 290
 3 Sorin, Vengeful Bloodlord (WAR) 217
-10 Plains (ANA) 61
 2 Isolated Chapel (DAR) 241
 4 Sorin's Thirst (WAR) 104
 4 Vampire of the Dire Moon (M20) 120
@@ -17,3 +17,6 @@
 4 Martyr of Dusk (RIX) 14
 2 Inspiring Cleric (XLN) 16
 2 Child of Night (GRN) 65
+10 Plains (UST) 212
+12 Swamp (UST) 214
+```
