@@ -1,9 +1,8 @@
+# MAGIC THE GATHERING 
 
-Companions
+## Ideas
 
---------------------
-CARDS
---------------------
+### Cards
 Dreadhoarde Anarchist
 Pledge of Unity
 Shatter the Sky
@@ -67,9 +66,7 @@ Trangressions
 Hymn of the Souless
 Equsite Blood
 
---------------------
-TRIBES
---------------------
+### Tribes
 Artifacts
 Golem
 Fox
@@ -83,9 +80,7 @@ Phoenix
 Planeswalkers
 Rats
 
---------------------
-KEYWORDS
---------------------
+### Keywords
 Mutate
 Surveil
 Flash
@@ -94,21 +89,7 @@ counter
 counters
 Mentor
 
---------------------
-MOVIES
---------------------
-
---------------------
-SONGS
---------------------
-
---------------------
-BOOKS
---------------------
-
---------------------
-THEMES
---------------------
+### Themes
 Vampires with Hats
 Mutating <animal>
 Classic monsters
