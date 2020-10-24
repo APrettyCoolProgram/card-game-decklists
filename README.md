@@ -5,7 +5,7 @@
 
 <h3 align="center">
 
-  <img src="repository-data/image/logo/card-game-decklists-logo-750x250.png" alt="Card Game Decklists repository logo" width="142">
+  <img src="repository-data/image/logo/card-game-decklists-logo-750x250.png" alt="Card Game Decklists repository logo" width="750">
   <br>
   Decklists for card games
   <br>
@@ -34,15 +34,15 @@ This is a collection of decklists for various card games.
 [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) is a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.first
 
 <details>
-<summary>What's under this?</summary>
+<summary>Decklists</summary>
 
-* [Current]()
-* [Experimental]()
-* [Work In Progress]()
-* [Jumpstart]()
-* [Draft]()
-* [Cube]()
-* [Paper]()
+* [Cube](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/cube)
+* [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/current)
+* [Draft](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/draft)
+* [Experimental](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/experimental)
+* [Jumpstart](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/jumpstart)
+* [Paper](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/paper)
+* [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/work-in-progress)
 
 </details>
 
