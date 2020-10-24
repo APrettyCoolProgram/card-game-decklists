@@ -3,6 +3,7 @@
 ## Ideas
 
 ### Cards
+```
 Dreadhoarde Anarchist
 Pledge of Unity
 Shatter the Sky
@@ -65,8 +66,10 @@ Cossacks of the Plains
 Trangressions
 Hymn of the Souless
 Equsite Blood
+```
 
 ### Tribes
+```
 Artifacts
 Golem
 Fox
@@ -79,8 +82,10 @@ Dinosaurs
 Phoenix
 Planeswalkers
 Rats
+```
 
 ### Keywords
+```
 Mutate
 Surveil
 Flash
@@ -88,8 +93,10 @@ cycle
 counter
 counters
 Mentor
+```
 
 ### Themes
+```
 Vampires with Hats
 Mutating <animal>
 Classic monsters
@@ -97,3 +104,4 @@ Control other creatures
 Graveyeard
 Cats and Dogs
 Gain 3 life
+```
