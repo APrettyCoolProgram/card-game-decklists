@@ -1,2 +1,2 @@
-# card-decks
-Card decks for various card games.
+# Card Game Decklists
+Decklists for various card games.
