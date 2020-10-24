@@ -54,8 +54,6 @@ This is a collection of decklists for various card games.
 
 </details>
 
-
-
 # DEVELOPMENT
 A blurb about development can go here.
 
