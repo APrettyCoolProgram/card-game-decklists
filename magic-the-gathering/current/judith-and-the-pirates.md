@@ -1,6 +1,7 @@
+# Judith & The Pirates
+## Deck
+```
 1 Dire Fleet Neckbreaker (RIX) 156
-9 Swamp (ANA) 63
-14 Mountain (ANA) 64
 1 Grasping Scoundrel (RIX) 74
 1 Dinosaur Hunter (RIX) 67
 1 Dire Fleet Hoarder (XLN) 102
@@ -37,3 +38,6 @@
 1 Rakdos Locket (RNA) 237
 1 Dragonskull Summit (XLN) 252
 1 Judith, the Scourge Diva (RNA) 185
+9 Swamp (ANB) 116
+14 Mountain (ANB) 114
+```
