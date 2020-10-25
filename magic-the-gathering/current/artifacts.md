@@ -1,6 +1,7 @@
 # Artifacts
 ## Deck
 ```
+Deck
 1 Gingerbrute (ELD) 219
 1 Inquisitive Puppet (ELD) 223
 4 Cryptic Caves (M20) 244
@@ -25,10 +26,10 @@
 1 Labyrinth of Skophos (THB) 243
 1 Mobilized District (WAR) 249
 4 Unknown Shores (THB) 249
-2 Plains (ANA) 56
-2 Island (ANA) 57
-2 Swamp (ANA) 58
-2 Mountain (ANA) 59
-2 Forest (ANA) 60
+2 Plains (UST) 212
+2 Island (UST) 213
+2 Swamp (UST) 214
+2 Mountain (UST) 215
+2 Forest (UST) 216
 1 Steel Overseer (M20) 239
 ```
