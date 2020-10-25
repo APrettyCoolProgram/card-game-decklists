@@ -1,3 +1,6 @@
+# Artifacts
+## Deck
+```
 1 Gingerbrute (ELD) 219
 1 Inquisitive Puppet (ELD) 223
 4 Cryptic Caves (M20) 244
@@ -28,3 +31,4 @@
 2 Mountain (ANA) 59
 2 Forest (ANA) 60
 1 Steel Overseer (M20) 239
+```
