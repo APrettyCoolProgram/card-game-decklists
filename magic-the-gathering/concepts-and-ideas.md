@@ -68,7 +68,7 @@ Hymn of the Souless
 Equsite Blood
 Kaya's Wrath
 Griffin Aerie
-
+Eldena w/power up
 ```
 
 ### Tribes
