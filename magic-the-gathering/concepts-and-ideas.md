@@ -66,6 +66,9 @@ Cossacks of the Plains
 Trangressions
 Hymn of the Souless
 Equsite Blood
+Kaya's Wrath
+
+
 ```
 
 ### Tribes
