@@ -67,7 +67,7 @@ Trangressions
 Hymn of the Souless
 Equsite Blood
 Kaya's Wrath
-
+Griffin Aerie
 
 ```
 
