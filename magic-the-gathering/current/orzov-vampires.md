@@ -1,7 +1,22 @@
 # Orzov Vampires
-## Deck
 ```
-Deck
+2 Elenda, the Dusk Rose (RIX) 157
+4 Pitiless Pontiff (RNA) 194
+12 Plains (UST) 212
+4 Murder (M20) 109
+4 Call to the Feast (XLN) 219
+4 Vizkopa Vampire (RNA) 220
+12 Swamp (UST) 214
+4 Regal Bloodlord (M19) 222
+3 Indulging Patrician (M21) 219
+4 Legion Lieutenant (RIX) 163
+4 Cruel Celebrant (WAR) 188
+3 Prison Realm (WAR) 26
+```
+
+## Archive
+201031
+```
 2 Vizkopa Vampire (RNA) 220
 4 Bloodthirsty Aerialist (M20) 91
 4 Child of Night (GRN) 65
@@ -17,7 +32,4 @@ Deck
 2 Blood Burglar (M20) 88
 3 Pacifism (M20) 32
 3 Luminous Bonds (RIX) 12
-
-
 ```
-## Archive
