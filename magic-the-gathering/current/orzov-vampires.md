@@ -2,25 +2,22 @@
 ## Deck
 ```
 Deck
-4 Merfolk Mistbinder (RIX) 164
-6 Island (UST) 213
-8 Forest (UST) 216
-4 Merfolk Skydiver (WAR) 205
-2 Thornwood Falls (ELD) 313
-2 Vineshaper Mystic (XLN) 214
-3 Tishana's Wayfinder (XLN) 211
-1 Jadelight Ranger (RIX) 136
-4 Merfolk Branchwalker (XLN) 197
-4 Kumena's Speaker (XLN) 196
-4 Jade Bearer (RIX) 134
-2 Hinterland Harbor (DAR) 240
-1 Tempest Caller (XLN) 86
-1 Herald of Secret Streams (XLN) 59
-2 Temple of Mystery (M20) 255
-4 Watertrap Weaver (XLN) 87
-4 Merrow Reejerey (LRW) 74
-2 Lonely Sandbar (ONS) 320
-2 Tranquil Thicket (ONS) 326
+2 Vizkopa Vampire (RNA) 220
+4 Bloodthirsty Aerialist (M20) 91
+4 Child of Night (GRN) 65
+4 Sorin's Thirst (WAR) 104
+2 Godless Shrine (RNA) 248
+2 Thirsting Bloodlord (M20) 293
+4 Vampire of the Dire Moon (M20) 120
+13 Swamp (UST) 214
+4 Healer's Hawk (GRN) 14
+7 Plains (UST) 212
+2 Temple of Silence (M20) 256
+4 Murder (M20) 109
+2 Blood Burglar (M20) 88
+3 Pacifism (M20) 32
+3 Luminous Bonds (RIX) 12
+
 
 ```
 ## Archive
