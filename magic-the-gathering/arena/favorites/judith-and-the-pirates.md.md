@@ -1,5 +1,6 @@
 # Judith & The Pirates
 ```
+Deck
 1 Dire Fleet Neckbreaker (RIX) 156
 1 Grasping Scoundrel (RIX) 74
 1 Dinosaur Hunter (RIX) 67
@@ -37,7 +38,7 @@
 1 Rakdos Locket (RNA) 237
 1 Dragonskull Summit (XLN) 252
 1 Judith, the Scourge Diva (RNA) 185
-9 Swamp (ANB) 116
-14 Mountain (ANB) 114
+14 Mountain (UST) 215
+9 Swamp (UST) 214
 ```
 ## Archive
