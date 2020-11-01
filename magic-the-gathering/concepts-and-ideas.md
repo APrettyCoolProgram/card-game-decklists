@@ -98,6 +98,7 @@ counter
 counters
 Mentor
 Escape
+kicker
 ```
 
 ### Themes
