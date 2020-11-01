@@ -69,6 +69,7 @@ Equsite Blood
 Kaya's Wrath
 Griffin Aerie
 Eldena own deck
+KAAAAAAAAAAAAAAARN!!!!!!
 ```
 
 ### Tribes
