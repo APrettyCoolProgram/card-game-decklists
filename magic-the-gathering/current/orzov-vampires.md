@@ -2,16 +2,18 @@
 ```
 2 Elenda, the Dusk Rose (RIX) 157
 4 Pitiless Pontiff (RNA) 194
-12 Plains (UST) 212
+10 Swamp (UST) 214
 4 Murder (M20) 109
 4 Call to the Feast (XLN) 219
 4 Vizkopa Vampire (RNA) 220
-12 Swamp (UST) 214
+10 Plains (UST) 212
 4 Regal Bloodlord (M19) 222
 3 Indulging Patrician (M21) 219
 4 Legion Lieutenant (RIX) 163
 4 Cruel Celebrant (WAR) 188
 3 Prison Realm (WAR) 26
+2 Godless Shrine (RNA) 248
+2 Isolated Chapel (DAR) 241
 ```
 
 ## Archive
