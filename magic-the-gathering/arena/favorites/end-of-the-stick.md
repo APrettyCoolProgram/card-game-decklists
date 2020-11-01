@@ -1,4 +1,5 @@
-200504
+# End of the Stick
+```
 1 Ajani's Welcome (M19) 6
 5 Swamp (ANA) 58
 1 Arrester's Zeal (RNA) 4
@@ -148,3 +149,5 @@
 4 Boros Guildgate (GRN) 243
 4 Selesnya Guildgate (GRN) 255
 4 Simic Guildgate (RNA) 258
+```
+## Archive
