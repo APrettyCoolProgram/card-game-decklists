@@ -112,3 +112,9 @@ Cats and Dogs
 Gain 3 life
 Drain the Swamp
 ```
+
+### Decks to revisit
+```
+Nahiri Kor Warriors
+    Zendikar Rising has a bunch of common/uncommon Kor Warriors
+```
