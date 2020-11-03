@@ -1,3 +1,5 @@
+B
+
 # bg_Deathtouch
 Built around the *deathtouch* keyword.
 

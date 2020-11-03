@@ -1,3 +1,5 @@
+BW
+
 # Elenda_hswb
 A deck built around Elenda
 
