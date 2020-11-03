@@ -110,4 +110,5 @@ Control other creatures
 Graveyeard
 Cats and Dogs
 Gain 3 life
+Drain the Swamp
 ```
