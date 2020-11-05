@@ -117,4 +117,7 @@ Drain the Swamp
 ```
 Nahiri Kor Warriors
     Zendikar Rising has a bunch of common/uncommon Kor Warriors
+
+Knights of History
+    Add Equipment
 ```
