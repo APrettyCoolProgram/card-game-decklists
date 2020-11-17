@@ -86,6 +86,7 @@ Dinosaurs
 Phoenix
 Planeswalkers
 Rats
+Illusions
 ```
 
 ### Keywords
