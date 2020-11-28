@@ -4,6 +4,7 @@
 
 ### Cards
 ```
+Cast Away
 Dreadhoarde Anarchist
 Pledge of Unity
 Shatter the Sky
