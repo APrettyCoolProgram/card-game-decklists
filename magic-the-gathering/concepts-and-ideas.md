@@ -4,6 +4,7 @@
 
 ### Cards
 ```
+Josu Vess
 Cast Away
 Dreadhoarde Anarchist
 Pledge of Unity
