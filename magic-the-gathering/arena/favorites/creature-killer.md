@@ -1,26 +1,19 @@
-# Auspicious Cubwarden
-```
-4 Cubwarden (IKO) 7
-5 Forest (UST) 216
-4 Vulpikeet (IKO) 37
-2 Majestic Auricorn (IKO) 22
-4 Glowstone Recluse (IKO) 156
-8 Plains (UST) 212
-2 Gemrazer (IKO) 155
-2 Migratory Greathorn (IKO) 165
-2 Auspicious Starrix (IKO) 144
-4 Pacifism (M20) 32
-2 Secluded Steppe (ONS) 324
-2 Root Snare (RNA) 137
-2 Temple of Plenty (THB) 248
-2 Sunpetal Grove (XLN) 257
-2 Tranquil Thicket (ONS) 326
-1 Castle Garenbrig (ELD) 240
-1 Pulse of Murasa (M20) 189
-4 Mysterious Egg (IKO) 3
-2 Temple of Malady (M20) 254
-2 Join Shields (GRN) 181
-1 Appeal /// Authority (AKR) 227
-2 Mirari's Wake (JUD) 139
+# Creature Killer
+Deck
+4 Blazing Volley (IKO) 107
+22 Mountain (UST) 215
+4 Shivan Fire (DAR) 142
+2 Spikefield Hazard (ZNR) 166
+4 Lava Coil (GRN) 108
+4 Jaya's Greeting (WAR) 136
+4 Lightning Strike (XLN) 149
+1 Underworld Fires (THB) 162
+2 Dual Shot (XLN) 141
+2 Storm's Wrath (THB) 157
+2 Forgotten Cave (ONS) 317
+2 Mutiny (RIX) 106
+4 Shock (M21) 159
+3 Slaying Fire (ELD) 143
+
 ```
 ## Archive
