@@ -5,6 +5,7 @@
 ### Cards
 ```
 Josu Vess
+grim captians call
 Cast Away
 Dreadhoarde Anarchist
 Pledge of Unity
