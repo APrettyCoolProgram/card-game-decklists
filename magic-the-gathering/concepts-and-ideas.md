@@ -11,7 +11,6 @@ Dreadhoarde Anarchist
 Pledge of Unity
 Shatter the Sky
 March of the Multitudes
-Josu
 Plaguecrafter
 Casualties of War
 *Ultimatum
