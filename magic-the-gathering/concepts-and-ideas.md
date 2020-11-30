@@ -90,6 +90,8 @@ Phoenix
 Planeswalkers
 Rats
 Illusions
+animals - pangolin
+
 ```
 
 ### Keywords
