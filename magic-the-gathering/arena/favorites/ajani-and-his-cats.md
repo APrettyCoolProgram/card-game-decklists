@@ -1,7 +1,8 @@
 # Ajani & His Cats
 ```
-15 Plains (ANA) 56
-5 Forest (ANA) 60
+Deck
+15 Plains (UST) 212
+5 Forest (UST) 216
 2 Sunpetal Grove (XLN) 257
 2 Temple Garden (GRN) 258
 4 Ajani's Welcome (M19) 6
@@ -18,4 +19,7 @@
 1 Ajani, Inspiring Leader (M20) 282
 2 Huntmaster Liger (IKO) 16
 2 Cubwarden (IKO) 7
+
+Sideboard
+
 ```
