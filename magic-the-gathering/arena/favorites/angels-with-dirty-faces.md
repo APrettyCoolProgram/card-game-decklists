@@ -1,5 +1,6 @@
 # Angels with Dirty Faces
 ```
+Deck
 1 Evolving Wilds (RIX) 186
 2 Serra's Guardian (M20) 310
 1 Serra's Guardian (M19) 284
@@ -21,4 +22,7 @@
 4 Shock (M19) 156
 9 Mountain (UST) 215
 12 Plains (UST) 212
+
+Sideboard
+
 ```
