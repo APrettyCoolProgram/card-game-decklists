@@ -3,7 +3,7 @@
 # Sleeve list
 https://www.joestradingpost.com/sleeves.html
 
-## Ideas
+# Ideas
 
 ### Cards
 ```
