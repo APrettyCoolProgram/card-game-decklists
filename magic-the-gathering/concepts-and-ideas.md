@@ -1,5 +1,8 @@
 # MAGIC THE GATHERING 
 
+# Sleeve list
+https://www.joestradingpost.com/sleeves.html
+
 ## Ideas
 
 ### Cards
