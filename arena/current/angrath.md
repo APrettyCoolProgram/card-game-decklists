@@ -8,6 +8,7 @@ Deck
 1 Angrath, the Flame-Chained (RIX) 152
 2 Angrath's Fury (RIX) 204
 1 Angrath, Minotaur Pirate (RIX) 201
+2 Smelt-Ward Minotaur (GRN) 116
 2 Akoum Warrior (ZNR) 134
 1 Shatterskull Minotaur (ZNR) 160
 2 Murder (M20) 109
