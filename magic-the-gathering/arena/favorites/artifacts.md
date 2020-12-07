@@ -1,5 +1,6 @@
 # Artifacts
 ```
+Deck
 1 Gingerbrute (ELD) 219
 1 Inquisitive Puppet (ELD) 223
 4 Cryptic Caves (M20) 244
@@ -30,5 +31,7 @@
 2 Mountain (UST) 215
 2 Forest (UST) 216
 1 Steel Overseer (M20) 239
+
+Sideboard
+
 ```
-## Archive
