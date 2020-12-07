@@ -1,5 +1,6 @@
-# Fire Dreadhorde
+# Neheb's Dreadhorde
 ```
+Deck
 2 Deface (RNA) 98
 3 Risk Factor (GRN) 113
 4 Grim Initiate (WAR) 130
@@ -12,4 +13,7 @@
 4 Honor the God-Pharaoh (WAR) 132
 4 Forgotten Cave (ONS) 317
 20 Mountain (UST) 215
+
+Sideboard
+
 ```
