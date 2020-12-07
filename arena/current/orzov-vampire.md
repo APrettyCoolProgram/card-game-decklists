@@ -1,5 +1,6 @@
-# Orzov Vampires
+# Orzov: Vampire
 ```
+Deck
 2 Elenda, the Dusk Rose (RIX) 157
 4 Pitiless Pontiff (RNA) 194
 10 Swamp (UST) 214
@@ -14,9 +15,13 @@
 3 Prison Realm (WAR) 26
 2 Godless Shrine (RNA) 248
 2 Isolated Chapel (DAR) 241
+
+Sideboard
+
 ```
-## Archive
-201031
+
+### Archive
+#### 201031
 ```
 2 Vizkopa Vampire (RNA) 220
 4 Bloodthirsty Aerialist (M20) 91
@@ -33,4 +38,7 @@
 2 Blood Burglar (M20) 88
 3 Pacifism (M20) 32
 3 Luminous Bonds (RIX) 12
+
+Sideboard
+
 ```
