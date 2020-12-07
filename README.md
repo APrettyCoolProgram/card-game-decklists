@@ -30,24 +30,27 @@
 
 <!-- About this repository -->
 # ABOUT
-This is a collection of decklists for [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering), a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.first
+This is a collection of decklists for [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering), a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.
 
 # ARENA
 
-* [Archive](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/archive): Archived decks
-* [Events](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/events)
-* [Experimental](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/experimental)
-* [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/current)
-* [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/work-in-progress)
+* [Archived decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/archive)
+* [Event decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/events)
+* [Experimental decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/experimental)
+* [Current decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/current)
+* [Work In Progress decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/work-in-progress)
 
 # PAPER
 
-* [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/paper/current)
+* [Current decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/paper/current)
 
 # OTHER INFORMATION
 
 * [Concepts & Ideas](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/concepts-and-ideas.md)
 * [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/data-notes.md)
+
+# THUAMATURGE
+A blurb about Thaumatruge can go here.
 
 # DEVELOPMENT
 A blurb about development can go here.

@@ -1,4 +1,4 @@
-# Azorius Birds
+# Azorius: Bird
 ```
 Deck
 8 Plains (UST) 212

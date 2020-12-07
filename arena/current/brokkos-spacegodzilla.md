@@ -1,5 +1,6 @@
 # Brokkos, Spacegodzilla
 ```
+Deck
 2 Boneyard Lurker (IKO) 178
 2 Dirge Bat (IKO) 84
 2 Dreamtail Heron (IKO) 47
@@ -24,5 +25,7 @@
 2 Temple of Mystery (M20) 255
 1 Hadana's Climb (RIX) 158
 4 Swamp (UST) 214
+
+Sideboard
+
 ```
-## Archive

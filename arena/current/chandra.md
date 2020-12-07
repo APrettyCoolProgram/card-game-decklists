@@ -1,5 +1,6 @@
 # Chandra
 ```
+Deck
 2 Chandra, Novice Pyromancer (M20) 128
 4 Chandra's Embercat (M20) 129
 4 Chandra's Pyreling (M21) 138
@@ -17,4 +18,7 @@
 4 Chandra's Spitfire (M20) 132
 2 Chandra, Heart of Fire (M21) 135
 4 Chandra's Outrage (M20) 130
+
+Sideboard
+
 ```

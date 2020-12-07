@@ -1,4 +1,4 @@
-# Black Death
+# Black Plague
 ```
 Deck
 4 Piper of the Swarm (ELD) 100
