@@ -1,5 +1,6 @@
 # Azorius Birds
 ```
+Deck
 8 Plains (UST) 212
 4 Healer's Hawk (GRN) 14
 4 Sky Theater Strix (WAR) 67
@@ -18,5 +19,7 @@
 2 Tranquil Cove (M20) 259
 1 Idyllic Grange (ELD) 246
 1 Mystic Sanctuary (ELD) 247
+
+Sideboard
+
 ```
-## Archive
