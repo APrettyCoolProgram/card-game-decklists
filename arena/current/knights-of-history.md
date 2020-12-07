@@ -1,5 +1,6 @@
 # Knights of History
 ```
+Deck
 1 History of Benalia (DAR) 21
 24 Plains (UST) 212
 1 Flight of Equenauts (GRN) 11
@@ -21,4 +22,8 @@
 1 Invoke the Divine (M19) 16
 1 Ritual of Rejuvenation (XLN) 32
 1 Bright Reprisal (XLN) 7
+1 Blessed Light (DAR) 7
+
+Sideboard
+
 ```

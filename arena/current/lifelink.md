@@ -1,5 +1,6 @@
-# Lots 'O Life
+# Lifelink
 ```
+Deck
 4 Beloved Princess (ELD) 7
 4 Faerie Guidemother (ELD) 11
 4 Haazda Marshal (GRN) 13
@@ -10,5 +11,7 @@
 4 Impassioned Orator (RNA) 12
 4 Skyline Scout (GRN) 25
 24 Plains (UST) 212
+
+Sideboard
+
 ```
-## Archive
