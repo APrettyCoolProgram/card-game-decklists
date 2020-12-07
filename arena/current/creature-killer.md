@@ -1,4 +1,5 @@
 # Creature Killer
+```
 Deck
 4 Blazing Volley (IKO) 107
 22 Mountain (UST) 215
@@ -15,5 +16,6 @@ Deck
 4 Shock (M21) 159
 3 Slaying Fire (ELD) 143
 
+Sideboard
+
 ```
-## Archive

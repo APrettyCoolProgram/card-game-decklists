@@ -1,5 +1,6 @@
 # Cookie & Groot
 ```
+Deck
 4 Charmed Stray (WAR) 8
 20 Plains (UST) 212
 2 Garrison Cat (IKO) 14
@@ -16,5 +17,7 @@
 2 Pouncing Lynx (WAR) 25
 2 Twilight Panther (RNA) 28
 4 Thriving Heath (JMP) 35
+
+Sideboard
+
 ```
-## Archive

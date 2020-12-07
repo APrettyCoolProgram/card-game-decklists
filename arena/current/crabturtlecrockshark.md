@@ -1,13 +1,13 @@
 # CrabTurtleCrocShark
 ```
+Deck
 2 Scuttlegator (RNA) 218
 3 Sharktocrab (RNA) 206
 1 Crystacean (IKO) 46
 4 Fortress Crab (M20) 60
 2 Skitter Eel (RNA) 53
 4 Wishcoin Crab (GRN) 60
-13 Island (IKO) 265
-5 Forest (IKO) 274
+5 Forest (UST) 216
 2 Aegis Turtle (IKO) 39
 3 Riptide Turtle (THB) 61
 4 Mistford River Turtle (ELD) 56
@@ -19,4 +19,8 @@
 2 Breeding Pool (RNA) 246
 2 Temple of Mystery (M20) 255
 2 Thornwood Falls (M20) 258
+13 Island (UST) 213
+
+Sideboard
+
 ```
