@@ -1,4 +1,4 @@
-# Ajani & His Cats
+# Ajani
 ```
 Deck
 15 Plains (UST) 212

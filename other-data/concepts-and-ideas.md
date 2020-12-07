@@ -109,6 +109,7 @@ counters
 Mentor
 Escape
 kicker
+Party
 ```
 
 ### Themes
