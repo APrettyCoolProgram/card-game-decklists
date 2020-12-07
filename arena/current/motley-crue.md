@@ -1,5 +1,6 @@
 # Motley Crue
 ```
+Deck
 2 Temple of Malice (THB) 247
 10 Mountain (UST) 215
 1 Dire Fleet Neckbreaker (RIX) 156
@@ -22,5 +23,7 @@
 4 Grasping Scoundrel (RIX) 74
 2 Dragonskull Summit (XLN) 252
 1 Barren Moor (ONS) 312
+
+Sideboard
+
 ```
-## Archive
