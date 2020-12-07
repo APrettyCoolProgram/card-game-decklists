@@ -1,5 +1,6 @@
 # Auspicious Cubwarden
 ```
+Deck
 4 Cubwarden (IKO) 7
 5 Forest (UST) 216
 4 Vulpikeet (IKO) 37
@@ -22,5 +23,7 @@
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
+
+Sideboard
+
 ```
-## Archive
