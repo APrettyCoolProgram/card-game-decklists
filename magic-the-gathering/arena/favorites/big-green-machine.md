@@ -1,5 +1,6 @@
 # Big Green Machine
 ```
+Deck
 3 Castle Garenbrig (ELD) 240
 1 Treeshaker Chimera (THB) 297
 4 Krosan Tusker (ONS) 272
@@ -24,4 +25,3 @@ Sideboard
 4 Siege Wurm (GRN) 144
 
 ```
-## Archive
