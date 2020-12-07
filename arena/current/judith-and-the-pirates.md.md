@@ -40,5 +40,7 @@ Deck
 1 Judith, the Scourge Diva (RNA) 185
 14 Mountain (UST) 215
 9 Swamp (UST) 214
+
+Sideboard
+
 ```
-## Archive
