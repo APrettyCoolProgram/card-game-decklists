@@ -18,7 +18,10 @@
 
   ### CONTENTS
   [ABOUT](#about)<br>
-  [MAGIC THE GATHERING](#magic-the-gathering)<br>
+  [ARENA](#arena)<br>
+  [PAPER](#paper)<br>
+  [OTHER INFORMATION](#other-information)<br>
+  [THAUMATURGE](#thaumaturge)<br>
   [DEVELOPMENT](#development)<br>
   
 </td>
@@ -29,8 +32,7 @@
 # ABOUT
 This is a collection of decklists for [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering), a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.first
 
-<details>
-<summary>Arena</summary>
+# ARENA
 
 * [Archive](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/archive): Archived decks
 * [Events](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/events)
@@ -38,22 +40,14 @@ This is a collection of decklists for [Magic: The Gathering](https://en.wikipedi
 * [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/current)
 * [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/work-in-progress)
 
-</details>
-
-<details>
-<summary>Paper</summary>
+# PAPER
 
 * [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/paper/current)
 
-</details>
-
-<details>
-<summary>Other information</summary>
+# OTHER INFORMATION
 
 * [Concepts & Ideas](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/concepts-and-ideas.md)
 * [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/data-notes.md)
-
-</details>
 
 # DEVELOPMENT
 A blurb about development can go here.
