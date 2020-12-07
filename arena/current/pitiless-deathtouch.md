@@ -1,8 +1,9 @@
 # Pitiless Deathtouch
 ```
+Deck
 1 Feral Abomination (M20) 101
-12 Swamp (ANA) 58
-8 Forest (ANA) 60
+12 Swamp (UST) 214
+8 Forest (UST) 216
 1 Grimdancer (IKO) 90
 2 Overgrown Tomb (GRN) 253
 2 Temple of Malady (M20) 254
@@ -16,5 +17,7 @@
 4 Sedge Scorpion (M20) 192
 4 Pitiless Gorgon (GRN) 218
 1 Poison-Tip Archer (M19) 220
+
+Sideboard
+
 ```
-## Archive

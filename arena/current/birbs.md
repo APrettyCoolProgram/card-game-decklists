@@ -1,4 +1,4 @@
-# Azorius: Bird
+# Birbs
 ```
 Deck
 8 Plains (UST) 212
