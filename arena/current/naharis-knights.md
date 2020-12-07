@@ -1,4 +1,4 @@
-# Boros: Knight & Soldier
+# Nahari's Knights
 ```
 Deck
 3 Swathcutter Giant (GRN) 202

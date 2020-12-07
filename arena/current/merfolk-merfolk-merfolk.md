@@ -1,4 +1,4 @@
-# Simic: Merfolk
+# Merfolk Merfolk Merfolk
 ```
 Deck
 4 Merfolk Mistbinder (RIX) 164

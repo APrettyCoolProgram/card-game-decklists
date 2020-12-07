@@ -1,4 +1,4 @@
-# Angels With Dirty Faces
+# Aurelia's Angels
 ```
 Deck
 1 Evolving Wilds (RIX) 186

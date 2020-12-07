@@ -1,5 +1,6 @@
-# Thassa and Kefnet
+# Thassa & Kefnet
 ```
+Deck
 1 God-Eternal Kefnet (WAR) 53
 20 Island (UST) 213
 1 Thassa, Deep-Dwelling (THB) 71
@@ -15,5 +16,7 @@
 4 Callous Dismissal (WAR) 44
 2 Blink of an Eye (DAR) 46
 1 Witching Well (ELD) 74
+
+Sideboard
+
 ```
-## Archive

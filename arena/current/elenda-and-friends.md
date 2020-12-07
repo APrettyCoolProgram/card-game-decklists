@@ -1,4 +1,4 @@
-# Orzov: Vampire
+# Elenda & Friends
 ```
 Deck
 2 Elenda, the Dusk Rose (RIX) 157

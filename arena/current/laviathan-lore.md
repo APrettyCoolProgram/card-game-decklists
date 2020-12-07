@@ -1,5 +1,6 @@
-# Sea-Dasher Drakkis
+# Laviathan Lore
 ```
+Deck
 4 Mysterious Egg (IKO) 3
 10 Island (UST) 213
 4 Dreamtail Heron (IKO) 47
@@ -18,5 +19,7 @@
 1 Lotus Field (M20) 249
 2 Fabled Passage (ELD) 244
 1 Sea-Dasher Octopus (IKO) 66
+
+Sideboard
+
 ```
-## Archive

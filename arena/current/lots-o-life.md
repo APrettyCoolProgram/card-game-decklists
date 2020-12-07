@@ -1,4 +1,4 @@
-# Lifelink
+# Lots 'O Life
 ```
 Deck
 4 Beloved Princess (ELD) 7

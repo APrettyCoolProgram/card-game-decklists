@@ -1,5 +1,6 @@
-# Rakdos Minotaurs
+# Angrath & His Bros
 ```
+Deck
 4 Nyxborn Marauder (THB) 109
 11 Mountain (UST) 215
 4 Rage-Scarred Berserker (THB) 113
@@ -12,5 +13,7 @@
 4 Sorin's Thirst (WAR) 104
 4 Angrath, Captain of Chaos (WAR) 227
 1 Akoum Warrior (ZNR) 134
+
+Sideboard
+
 ```
-## Archive

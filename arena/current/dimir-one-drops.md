@@ -1,4 +1,4 @@
-# Dimir: One Drop
+# Dimir: One Drops
 ```
 Deck
 9 Swamp (UST) 214

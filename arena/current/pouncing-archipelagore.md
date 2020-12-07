@@ -1,5 +1,6 @@
 # Puncing Archipelagore
 ```
+Deck
 2 Essence Scatter (IKO) 49
 11 Plains (UST) 212
 4 Huntmaster Liger (IKO) 16
@@ -17,5 +18,7 @@
 2 Negate (M20) 69
 2 Depose // Deploy (RNA) 225
 2 Warrant // Warden (RNA) 230
+
+Sideboard
+
 ```
-## Archive

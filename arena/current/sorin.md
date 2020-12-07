@@ -1,19 +1,24 @@
+# Sorin
+```
 Deck
-10 Plains (ANB) 115
+1 Bloodcrazed Paladin (XLN) 93
 1 Sorin, Vampire Lord (M20) 290
-3 Sorin, Vengeful Bloodlord (WAR) 217
-12 Swamp (ANB) 116
-2 Isolated Chapel (DAR) 241
+4 Banehound (WAR) 77
+22 Swamp (UST) 214
+2 Sorin, Imperious Bloodlord (M20) 115
 4 Sorin's Thirst (WAR) 104
 4 Vampire of the Dire Moon (M20) 120
-2 Call to the Feast (XLN) 219
-3 Legion Lieutenant (RIX) 163
+2 Thirsting Bloodlord (M20) 293
+1 Barren Moor (ONS) 312
 1 Vengeant Vampire (G18) GP3
-1 Elenda, the Dusk Rose (RIX) 157
-2 Cruel Celebrant (WAR) 188
-2 Vampire Sovereign (M19) 125
+2 Sanctum Seeker (XLN) 120
+1 Zof Consumption (ZNR) 132
+1 Vampire Sovereign (M19) 125
 2 Sadistic Skymarcher (RIX) 85
-3 Bloodthirsty Aerialist (M20) 91
-4 Martyr of Dusk (RIX) 14
-2 Inspiring Cleric (XLN) 16
-2 Child of Night (GRN) 65
+4 Bloodthirsty Aerialist (M20) 91
+4 Blood Burglar (M20) 88
+4 Child of Night (GRN) 65
+
+Sideboard
+
+```

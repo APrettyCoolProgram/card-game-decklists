@@ -1,5 +1,6 @@
-# Snakes
+# Voracious Snake Beasts
 ```
+Deck
 2 Lorescale Coatl (M21) 221
 1 Temple of Malady (M20) 254
 4 Hagra Constrictor (ZNR) 105
@@ -24,5 +25,7 @@
 3 Island (ANB) 113
 7 Swamp (UST) 214
 5 Forest (UST) 216
+
+Sideboard
+
 ```
-## Archive

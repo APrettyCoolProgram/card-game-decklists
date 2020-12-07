@@ -1,7 +1,8 @@
-# Selesnya Giants
+# Yorvo & The Big Boys
 ```
+Deck
 2 Howling Giant (M20) 177
-11 Forest (ANA) 60
+11 Forest (UST) 216
 2 Beanstalk Giant (ELD) 149
 2 Nyxborn Colossus (THB) 191
 2 Garenbrig Paladin (ELD) 157
@@ -10,7 +11,7 @@
 2 Temple Garden (GRN) 258
 2 Temple of Plenty (THB) 248
 4 Realm-Cloaked Giant (ELD) 26
-10 Plains (ANA) 56
+10 Plains (UST) 212
 2 Watchful Giant (RNA) 30
 2 Bulwark Giant (WAR) 7
 2 Rumbling Sentry (THB) 35
@@ -18,9 +19,13 @@
 4 Gift of Paradise (M20) 173
 2 Pacifism (M20) 32
 4 Flower // Flourish (GRN) 226
+
+Sideboard
+
 ```
-## Archive
-200428
+
+### Archive
+#### 200428
 ```
 2 Howling Giant (M20) 177
 9 Forest (ANA) 60
@@ -42,4 +47,7 @@
 2 Ilysian Caryatid (THB) 174
 4 Gift of Paradise (M20) 173
 2 Pacifism (M20) 32
+
+Sideboard
+
 ```

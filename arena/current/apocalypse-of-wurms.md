@@ -1,5 +1,5 @@
-# Wurm
-```
+# Apocalypse of Wurms
+Deck
 2 Ranger's Guile (M21) 199
 1 Pelakka Wurm (M19) 192
 4 Primordial Wurm (WAR) 174
@@ -15,5 +15,7 @@
 2 Tranquil Thicket (ONS) 326
 1 Heroic Intervention (M21) 188
 4 Blinding Fog (XLN) 177
+
+Sideboard
+
 ```
-## Archive

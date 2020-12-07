@@ -1,5 +1,6 @@
 # Sorin & Elenda
 ```
+Deck
 1 Sorin, Vampire Lord (M20) 290
 3 Sorin, Vengeful Bloodlord (WAR) 217
 2 Isolated Chapel (DAR) 241
@@ -18,4 +19,7 @@
 2 Child of Night (GRN) 65
 10 Plains (UST) 212
 12 Swamp (UST) 214
+
+Sideboard
+
 ```
