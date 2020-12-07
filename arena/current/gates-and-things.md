@@ -1,7 +1,7 @@
-# End of the Stick
+# Gates & Things
 ```
+Deck
 1 Ajani's Welcome (M19) 6
-5 Swamp (ANA) 58
 1 Arrester's Zeal (RNA) 4
 1 Blazing Hope (RIX) 3
 1 Charge (DAR) 10
@@ -31,7 +31,6 @@
 1 Hunted Witness (GRN) 15
 1 Yoked Ox (M20) 41
 1 Arcane Flight (DAR) 43
-6 Mountain (ANA) 59
 1 Benthic Biomancer (RNA) 32
 1 Curious Obsession (RIX) 35
 1 Dive Down (XLN) 53
@@ -51,7 +50,6 @@
 1 Selective Snare (GRN) 53
 1 Syncopate (DAR) 67
 1 Banehound (WAR) 77
-4 Island (ANA) 57
 1 Blessing of Belzenlok (DAR) 77
 1 Blight Keeper (XLN) 92
 1 Bone Splinters (M20) 92
@@ -80,7 +78,6 @@
 1 Deface (RNA) 98
 1 Dual Shot (XLN) 141
 1 Fanatical Firebrand (RIX) 101
-5 Plains (ANA) 56
 1 Fervent Strike (DAR) 117
 1 Fire Shrine Keeper (XLN) 144
 1 Ghitu Lavarunner (DAR) 127
@@ -115,7 +112,6 @@
 2 Kumena's Speaker (XLN) 196
 1 Jade Bearer (RIX) 134
 1 Llanowar Elves (DAR) 168
-4 Forest (ANA) 60
 1 Might of the Masses (GRN) 137
 1 Old-Growth Dryads (XLN) 199
 1 Pelt Collector (GRN) 141
@@ -149,5 +145,7 @@
 4 Boros Guildgate (GRN) 243
 4 Selesnya Guildgate (GRN) 255
 4 Simic Guildgate (RNA) 258
+
+Sideboard
+
 ```
-## Archive
