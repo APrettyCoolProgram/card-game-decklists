@@ -1,5 +1,6 @@
-# Jiang, Nissa, & Vivien
+# The Green Gang
 ```
+Deck
 2 Root Snare (RNA) 137
 22 Forest (UST) 216
 1 Howling Giant (M20) 177
@@ -24,4 +25,7 @@
 1 Gift of Paradise (M20) 173
 1 Khalni Ambush (ZNR) 192
 1 New Horizons (WAR) 168
+
+Sideboard
+
 ```
