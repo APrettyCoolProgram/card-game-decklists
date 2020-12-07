@@ -1,14 +1,19 @@
 # MAGIC THE GATHERING 
 
-## Ideas
+# Sleeve list
+https://www.joestradingpost.com/sleeves.html
+
+# Ideas
 
 ### Cards
 ```
+Josu Vess
+grim captians call
+Cast Away
 Dreadhoarde Anarchist
 Pledge of Unity
 Shatter the Sky
 March of the Multitudes
-Josu
 Plaguecrafter
 Casualties of War
 *Ultimatum
@@ -66,6 +71,10 @@ Cossacks of the Plains
 Trangressions
 Hymn of the Souless
 Equsite Blood
+Kaya's Wrath
+Griffin Aerie
+Eldena own deck
+KAAAAAAAAAAAAAAARN!!!!!!
 ```
 
 ### Tribes
@@ -82,6 +91,9 @@ Dinosaurs
 Phoenix
 Planeswalkers
 Rats
+Illusions
+animals - pangolin
+
 ```
 
 ### Keywords
@@ -92,8 +104,6 @@ Flash
 cycle
 counter
 counters
-Mentor\
-Landfall
 ```
 
 ### Themes
@@ -105,4 +115,14 @@ Control other creatures
 Graveyeard
 Cats and Dogs
 Gain 3 life
+Drain the Swamp
+```
+
+### Decks to revisit
+```
+Nahiri Kor Warriors
+    Zendikar Rising has a bunch of common/uncommon Kor Warriors
+
+Knights of History
+    Add Equipment
 ```

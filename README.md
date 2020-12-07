@@ -34,15 +34,19 @@ This is a collection of decklists for various card games.
 [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) is a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.first
 
 <details>
-<summary>Decklists</summary>
+<summary>Arena</summary>
 
-* [Cube](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/cube)
-* [Current](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/current)
-* [Draft](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/draft)
-* [Experimental](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/experimental)
-* [Jumpstart](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/jumpstart)
-* [Paper](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/paper)
-* [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/work-in-progress)
+* [Events](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/events)
+* [Experimental](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/experimental)
+* [Favorites](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/favorites)
+* [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/work-in-progress)
+
+</details>
+
+<details>
+<summary>Paper</summary>
+
+* [Favorites](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/paper/favorites)
 
 </details>
 
@@ -53,8 +57,6 @@ This is a collection of decklists for various card games.
 * [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/data-notes.md)
 
 </details>
-
-
 
 # DEVELOPMENT
 A blurb about development can go here.
