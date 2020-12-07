@@ -1,3 +1,5 @@
+-= TEMPORARY =-
+
 # MAGIC THE GATHERING 
 
 # Sleeve list
@@ -104,6 +106,9 @@ Flash
 cycle
 counter
 counters
+Mentor
+Escape
+kicker
 ```
 
 ### Themes
