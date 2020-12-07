@@ -1,0 +1,25 @@
+# Soldiers and Knights
+```
+Deck
+3 Swathcutter Giant (GRN) 202
+12 Plains (UST) 212
+12 Mountain (UST) 215
+2 Hammer Dropper (GRN) 176
+2 Tajic, Legion's Edge (GRN) 204
+4 Hero of the Nyxborn (THB) 219
+2 Heroic Reinforcements (M19) 217
+1 Swiftblade Vindicator (GRN) 203
+4 Skyknight Vanguard (M20) 218
+4 Fresh-Faced Recruit (GRN) 216
+4 Boros Challenger (GRN) 156
+1 Solar Blaze (WAR) 216
+1 Outlaws' Merriment (ELD) 198
+2 Nahiri, Storm of Stone (WAR) 233
+4 Deafening Clarion (GRN) 165
+1 Response // Resurgence (GRN) 229
+4 Justice Strike (GRN) 182
+1 Integrity // Intervention (GRN) 227
+
+Sideboard
+
+```
