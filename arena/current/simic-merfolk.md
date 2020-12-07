@@ -1,5 +1,6 @@
-# Merfolk
+# Simic: Merfolk
 ```
+Deck
 4 Merfolk Mistbinder (RIX) 164
 6 Island (UST) 213
 8 Forest (UST) 216
@@ -19,5 +20,7 @@
 4 Merrow Reejerey (LRW) 74
 2 Lonely Sandbar (ONS) 320
 2 Tranquil Thicket (ONS) 326
+
+Sideboard
+
 ```
-## Archive

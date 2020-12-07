@@ -1,7 +1,8 @@
-# Maw of Flames
+# Sarkhan & Drakuseth
 ```
+Deck
 4 Shock (M19) 156
-18 Mountain (ANB) 114
+18 Mountain (UST) 215
 2 Act of Treason (M19) 127
 4 Jaya's Greeting (WAR) 136
 2 Flame Sweep (M20) 139
@@ -17,5 +18,7 @@
 1 Hellkite Whelp (GRN) 106
 2 Fabled Passage (ELD) 244
 2 Lotus Field (M20) 249
+
+Sideboard
+
 ```
-## Archive
