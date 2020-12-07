@@ -1,4 +1,4 @@
-# Boros: Angel
+# Angels With Dirty Faces
 ```
 Deck
 1 Evolving Wilds (RIX) 186
