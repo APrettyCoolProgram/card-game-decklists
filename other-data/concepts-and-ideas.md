@@ -10,6 +10,8 @@ https://www.joestradingpost.com/sleeves.html
 ### Cards
 ```
 Felidar Retreat
+Ondu Inversion
+Stonework Packbeast/Veteran Adventurer
 The Great Henge / Henge
 Scute Swarm
 Josu Vess
