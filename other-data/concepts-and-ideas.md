@@ -9,6 +9,7 @@ https://www.joestradingpost.com/sleeves.html
 
 ### Cards
 ```
+Glass Mimic
 Chromatic Orrey
 Felidar Retreat
 Ondu Inversion
