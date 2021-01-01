@@ -1,4 +1,4 @@
-# Nahari's Kor Warriors
+# Nahari
 ```
 Deck
 2 Nahiri, Heir of the Ancients (ZNR) 230
