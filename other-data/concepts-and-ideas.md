@@ -9,81 +9,72 @@ https://www.joestradingpost.com/sleeves.html
 
 ### Cards
 ```
-Glass Mimic
-Chromatic Orrey
-Felidar Retreat
-Ondu Inversion
-Stonework Packbeast/Veteran Adventurer
-The Great Henge / Henge
-Scute Swarm
-Josu Vess
-grim captians call
-Cast Away
-Dreadhoarde Anarchist
-Pledge of Unity
-Shatter the Sky
-March of the Multitudes
-Plaguecrafter
-Casualties of War
+Glasspool Mimic - U
+Chromatic Orrery - C
+Felidar Retreat - W
+Ondu Inversion - W
+The Great Henge - G
+Scute Swarm - G
+Josu Vess - B
+Grim Captain's Call - B
+Dreadhoarde Arcanist - R
+Pledge of Unity - WG
+Shatter the Sky - W
+March of the Multitudes - WG
+Plaguecrafter - B
+Casualties of War - BG
+Sleeper Dart - C
+Commence the Endgame - U
+Kenrith - W
+Whisper Squad - B
+Swallow Whole - W
+Graveyard Marshal - B
+The Ozolith - C
+Season of Growth - G
+Erratic Cyclops - R
+Dungeon Geists - U
+Kroxa - BR
+Tentative Connection - R
+Migration Path - G
+Swathcutter Giant - RW
+Hydra's Growth - G
+Song of Creation - GUR
+Smothering Tithe - W
+Reverent Hoplite - W
+Void Beckoner - B
+Death Baron - B
+Vizier of the Scorpion - B
+Thaumatic Compass - C
+Star of Extinction - R
+Skeleton Archer - B
+Scavanging ooze - G
+Chainer's Edict - B
+Zhalfirin Void - L
+Chamber Sentry - C
+Forced Worship - W
+Drana, Kalastria Bloodchief - B
+Traitorous Greed - R
+Witch of the Moors - B
+Craterhoof Behemoth - G
+Liliana's Elite - B
+Dryad Greenseeker - G
+Stab Wound - B
+Maraleaf pixie - GU
+Pestilent Haze - B
+Dreadhorde Arcanist - B
+Settle the Wreckage - W
+Equsite Blood - B
+Kaya's Wrath - WB
+Griffin Aerie - W
+
 *Ultimatum
-Sleeper Dart
-Commence the Endgame
-Plaguecrafter
-Kenrith
-Whisper Squad
-Swallow Whole
-Graveyard Marshal
-The Ozolith
-Season of Growth
-Chavel
-Erratic Cyclops
-Dungeon Geists
-Kroxa
-Tentative Connection
-Migration Path
-Swathcutter Giant
-Hydras grpwth
-Song of Creation + Jumpstart, etc
-Smothering Tilde
-Reverent Hoplite
-Devine visitation
-Void Beckoner
-Death Baron
-Vizier of the Scorpion
-T. Compass 
-Star of Extinction
-Skeleton Archer
-Scavanging ooze
-Chainers Edict
-Zhalfrin void
-Chamber Sentry
-Forced Worship
-Drana
-Black Market + Heartfire
-Traitorous Greed 
-Witch of the Moors
-Craterhoof Behemoth
-Liliana's Elite
-Forced Worship
-Dryad Greenseeker
-Zendikar's Roil + Fertilid
-Stab Wound
-Festering Newt + Bogbrew Witch + Bubbling Cauldron
-Maraleaf pixie
-Pestilant haze
-Dreadhoarde Anarchist
-Settle the Wreckage
-Triomes
 The Gates of...
-Leyland Tyrant
-Cossacks of the Plains
-Trangressions
-Hymn of the Souless
-Equsite Blood
-Kaya's Wrath
-Griffin Aerie
-Eldena own deck
-KAAAAAAAAAAAAAAARN!!!!!!
+
+Festering Newt - B + Bogbrew Witch - B + Bubbling Cauldron - B
+Zendikar's Roil - G + Fertilid - G
+Black Market - B + Heartfire - R
+Stonework Packbeast - C + Veteran Adventurer - G
+
 ```
 
 ### Tribes
@@ -104,8 +95,6 @@ Illusions
 animals - pangolin
 
 ```
-
-
 
 ### Themes
 ```
