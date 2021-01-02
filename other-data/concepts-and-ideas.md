@@ -66,7 +66,8 @@ Settle the Wreckage - W
 Equsite Blood - B
 Kaya's Wrath - WB
 Griffin Aerie - W
-
+Hapatra - BG
+Polukranos  - BG 
 *Ultimatum
 The Gates of...
 
