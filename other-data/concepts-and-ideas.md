@@ -9,65 +9,80 @@ https://www.joestradingpost.com/sleeves.html
 
 ### Cards
 ```
-Glasspool Mimic - U
 Chromatic Orrery - C
-Felidar Retreat - W
-Ondu Inversion - W
-The Great Henge - G
-Scute Swarm - G
-Josu Vess - B
-Grim Captain's Call - B
-Dreadhoarde Arcanist - R
-Pledge of Unity - WG
-Shatter the Sky - W
-March of the Multitudes - WG
-Plaguecrafter - B
-Casualties of War - BG
 Sleeper Dart - C
-Commence the Endgame - U
-Kenrith - W
-Whisper Squad - B
-Swallow Whole - W
-Graveyard Marshal - B
 The Ozolith - C
-Season of Growth - G
-Erratic Cyclops - R
+Thaumatic Compass - C
+Chamber Sentry - C
+
+Glasspool Mimic - U
+Commence the Endgame - U
 Dungeon Geists - U
-Kroxa - BR
-Tentative Connection - R
-Migration Path - G
-Swathcutter Giant - RW
-Hydra's Growth - G
-Song of Creation - GUR
+
+Griffin Aerie - W
+Settle the Wreckage - W
+Forced Worship - W
 Smothering Tithe - W
 Reverent Hoplite - W
+Felidar Retreat - W
+Ondu Inversion - W
+Kenrith - W
+Swallow Whole - W
+Shatter the Sky - W
+
+Dryad Greenseeker - G
+Craterhoof Behemoth - G
+Scavanging ooze - G
+Migration Path - G
+The Great Henge - G
+Scute Swarm - G
+Season of Growth - G
+Hydra's Growth - G
+
+Josu Vess - B
+Grim Captain's Call - B
+Plaguecrafter - B
+Whisper Squad - B
+Graveyard Marshal - B
 Void Beckoner - B
 Death Baron - B
 Vizier of the Scorpion - B
-Thaumatic Compass - C
-Star of Extinction - R
 Skeleton Archer - B
-Scavanging ooze - G
 Chainer's Edict - B
-Zhalfirin Void - L
-Chamber Sentry - C
-Forced Worship - W
 Drana, Kalastria Bloodchief - B
-Traitorous Greed - R
 Witch of the Moors - B
-Craterhoof Behemoth - G
 Liliana's Elite - B
-Dryad Greenseeker - G
 Stab Wound - B
-Maraleaf pixie - GU
 Pestilent Haze - B
 Dreadhorde Arcanist - B
-Settle the Wreckage - W
 Equsite Blood - B
-Kaya's Wrath - WB
-Griffin Aerie - W
+
+Traitorous Greed - R
+Tentative Connection - R
+Dreadhoarde Arcanist - R
+Erratic Cyclops - R
+Star of Extinction - R
+
+Pledge of Unity - WG
+March of the Multitudes - WG
+
+Casualties of War - BG
 Hapatra - BG
 Polukranos  - BG 
+
+Kaya's Wrath - WB
+
+Maraleaf pixie - GU
+
+Kroxa - BR
+
+Swathcutter Giant - RW
+
+Song of Creation - GUR
+
+Zhalfirin Void - L
+
+
 *Ultimatum
 The Gates of...
 
