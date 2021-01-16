@@ -57,6 +57,7 @@ Pestilent Haze - B
 Dreadhorde Arcanist - B
 Equsite Blood - B
 Malakir Cullblade - B
+Typhoid Rats - B
 
 Traitorous Greed - R
 Tentative Connection - R
