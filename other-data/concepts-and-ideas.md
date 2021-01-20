@@ -73,6 +73,7 @@ Hapatra - BG
 Polukranos  - BG 
 
 Kaya's Wrath - WB
+Regal Bloodlord - WB
 
 Maraleaf pixie - GU
 
