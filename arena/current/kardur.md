@@ -1,5 +1,51 @@
 Deck
 1 Draugr Necromancer (KHM) 86
+8 Snow-Covered Swamp (MH1) 252
+1 Dragonkin Berserker (KHM) 131
+1 Blightstep Pathway (KHM) 252
+1 Sulfurous Mire (KHM) 270
+2 Kardur, Doomscourge (KHM) 216
+2 Raise the Draugr (KHM) 105
+2 Grim Draugr (KHM) 96
+3 Withercrown (KHM) 119
+2 Dogged Pursuit (KHM) 85
+2 Feed the Serpent (KHM) 95
+2 Jarl of the Forsaken (KHM) 100
+2 Karfell Kennel-Master (KHM) 101
+8 Snow-Covered Mountain (MH1) 253
+2 Dual Strike (KHM) 132
+2 Immersturm Raider (KHM) 141
+1 Run Amok (KHM) 147
+1 Vault Robber (KHM) 158
+2 Shackles of Treachery (KHM) 150
+2 Craven Hulk (KHM) 127
+1 Dwarven Reinforcements (KHM) 134
+1 Provoke the Trolls (KHM) 144
+1 Smashing Success (KHM) 151
+1 Hagi Mob (KHM) 140
+1 Valki, God of Lies (KHM) 114
+1 Draugr Recruiter (KHM) 87
+3 Frost Bite (KHM) 138
+4 Murder (M20) 109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deck
+1 Draugr Necromancer (KHM) 86
 7 Mountain (SLD) 106
 1 Dragonkin Berserker (KHM) 131
 1 Blightstep Pathway (KHM) 252
