@@ -29,21 +29,6 @@ Deck
 4 Murder (M20) 109
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Deck
 1 Draugr Necromancer (KHM) 86
 7 Mountain (SLD) 106
