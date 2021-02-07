@@ -17,8 +17,6 @@ Deck
 2 Dual Strike (KHM) 132
 1 Demon Bolt (KHM) 129
 
-
-
 210131
 ```
 Deck
