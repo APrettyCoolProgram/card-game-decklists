@@ -1,24 +1,19 @@
 Deck
-1 Blizzard Brawl (KHM) 162
-1 Crush the Weak (KHM) 128
-1 Dwarven Reinforcements (KHM) 134
-1 Spectral Steel (KHM) 30
-1 Smashing Success (KHM) 151
-1 Mammoth Growth (KHM) 183
-1 Raven Wings (KHM) 243
-1 Giant Ox (KHM) 11
+2 Blizzard Brawl (KHM) 162
+2 Smashing Success (KHM) 151
+4 Mammoth Growth (KHM) 183
 1 Tundra Fumarole (KHM) 156
-1 Resplendent Marshal (KHM) 22
-1 Weathered Runestone (KHM) 247
-2 Battlefield Raptor (KHM) 3
-3 Invoke the Divine (KHM) 16
-1 Revitalize (KHM) 23
-1 Dragonkin Berserker (KHM) 131
+2 Shock (M21) 159
 1 Svella, Ice Shaper (KHM) 230
-1 Replicating Ring (KHM) 244
-1 Wings of the Cosmos (KHM) 39
-1 Broken Wings (KHM) 164
-1 Beskir Shieldmate (KHM) 4
-7 Plains (SLD) 101
-5 Mountain (SLD) 106
-5 Forest (SLD) 108
+2 Rootbound Crag (XLN) 256
+3 Paradise Druid (WAR) 171
+4 Broken Wings (KHM) 164
+9 Snow-Covered Mountain (MH1) 253
+13 Snow-Covered Forest (MH1) 254
+1 Hagi Mob (KHM) 140
+4 Barkhide Troll (M20) 165
+4 Icehide Troll (KHM) 176
+2 Murasa Brute (ZNR) 195
+1 Old-Growth Troll (KHM) 185
+4 Challenger Troll (WAR) 157
+1 Trollbred Guardian (RNA) 148
