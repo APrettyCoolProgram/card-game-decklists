@@ -19,6 +19,7 @@ Glasspool Mimic - U
 Commence the Endgame - U
 Dungeon Geists - U
 
+Valkyrie Harbringer - W - Angel deck
 Griffin Aerie - W
 Settle the Wreckage - W
 Forced Worship - W
@@ -84,6 +85,20 @@ Swathcutter Giant - RW
 Song of Creation - GUR
 
 Zhalfirin Void - L
+
+-- Historic Anthology 4
+Spider Spawning
+Adorned Pouncer
+Bonesplitter
+Torment of Scarabs
+Inspiring Statuary
+Harmless Offering
+Death's Shadow
+
+
+
+
+
 
 
 *Ultimatum
