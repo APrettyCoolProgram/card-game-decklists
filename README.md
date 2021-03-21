@@ -1,13 +1,12 @@
 <!--
   project-templates 201024
-  card-game-decklists 201024
+  magic-the-gathering-decklists 201207
 -->
 
 <h3 align="center">
 
-  <img src="repository-data/image/logo/card-game-decklists-logo-750x250.png" alt="Card Game Decklists repository logo" width="750">
   <br>
-  Decklists for card games
+  Decklists for Magic: the Gathering
   <br>
 
 </h3>
@@ -19,7 +18,10 @@
 
   ### CONTENTS
   [ABOUT](#about)<br>
-  [MAGIC THE GATHERING](#magic-the-gathering)<br>
+  [ARENA](#arena)<br>
+  [PAPER](#paper)<br>
+  [OTHER INFORMATION](#other-information)<br>
+  [THAUMATURGE](#thaumaturge)<br>
   [DEVELOPMENT](#development)<br>
   
 </td>
@@ -28,35 +30,27 @@
 
 <!-- About this repository -->
 # ABOUT
-This is a collection of decklists for various card games.
+This is a collection of decklists for [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering), a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.
 
-# MAGIC THE GATHERING
-[Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) is a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.first
+# ARENA
 
-<details>
-<summary>Arena</summary>
+* [Archived decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/archive)
+* [Event decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/events)
+* [Experimental decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/experimental)
+* [Current decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/current)
+* [Work In Progress decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/arena/work-in-progress)
 
-* [Events](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/events)
-* [Experimental](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/experimental)
-* [Favorites](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/favorites)
-* [Work In Progress](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/arena/work-in-progress)
+# PAPER
 
-</details>
+* [Current decks](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/paper/current)
 
-<details>
-<summary>Paper</summary>
+# OTHER INFORMATION
 
-* [Favorites](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/paper/favorites)
+* [Concepts & Ideas](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/concepts-and-ideas.md)
+* [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/other-data/data-notes.md)
 
-</details>
-
-<details>
-<summary>Other information</summary>
-
-* [Concepts & Ideas](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/concepts-and-ideas.md)
-* [Data notes](https://github.com/APrettyCoolProgram/card-game-decklists/tree/master/magic-the-gathering/data-notes.md)
-
-</details>
+# THUAMATURGE
+A blurb about Thaumatruge can go here.
 
 # DEVELOPMENT
 A blurb about development can go here.
