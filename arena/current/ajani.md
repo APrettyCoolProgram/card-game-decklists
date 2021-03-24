@@ -19,7 +19,4 @@ Deck
 1 Ajani, Inspiring Leader (M20) 282
 2 Huntmaster Liger (IKO) 16
 2 Cubwarden (IKO) 7
-
-Sideboard
-
 ```
