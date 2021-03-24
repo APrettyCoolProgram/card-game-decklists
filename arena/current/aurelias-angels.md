@@ -22,7 +22,4 @@ Deck
 4 Shock (M19) 156
 9 Mountain (UST) 215
 12 Plains (UST) 212
-
-Sideboard
-
 ```
