@@ -144,6 +144,9 @@ Drain the Swamp
 
 ### Decks to revisit
 ```
+Domri
+    Not enough creatures
+
 Nahiri Kor Warriors
     Zendikar Rising has a bunch of common/uncommon Kor Warriors
 
