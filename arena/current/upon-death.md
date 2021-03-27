@@ -16,5 +16,5 @@ Deck
 4 Serrated Scorpion (IKO) 99
 
 Sideboard
-** None **
+**None**
 ```
