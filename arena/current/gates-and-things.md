@@ -1,4 +1,6 @@
 # Gates & Things
+>  Prismatic, singleton (except for Gates) deck focusing on Gates and other things.
+
 ```
 Deck
 1 Ajani's Welcome (M19) 6
