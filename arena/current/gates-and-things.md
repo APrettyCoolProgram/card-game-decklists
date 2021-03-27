@@ -1,5 +1,5 @@
 # Gates & Things
->  Prismatic, singleton (except for Gates) deck focusing on Gates and other things.
+>  Large, prismatic, singleton (except for Gates) deck focusing on Gates and other things.
 
 ```
 Deck
