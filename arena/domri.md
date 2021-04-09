@@ -1,4 +1,6 @@
 # Domri
+
+> Historic
 ```
 Deck
 4 Domri, Anarch of Bolas (WAR) 191
