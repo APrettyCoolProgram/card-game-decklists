@@ -1,6 +1,7 @@
 # Gates & Things
 >  Large, prismatic, singleton (except for Gates) deck focusing on Gates and other things.
 
+## Historic
 ```
 Deck
 1 Ajani's Welcome (M19) 6

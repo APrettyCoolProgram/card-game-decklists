@@ -1,4 +1,6 @@
 # Pitiless Deathtouch
+
+## Historic
 ```
 Deck
 1 Feral Abomination (M20) 101
@@ -21,7 +23,7 @@ Sideboard
 ```
 
 ## Archive
-### 210130
+### 210130 - Historic
 ```
 Deck
 1 Feral Abomination (M20) 101

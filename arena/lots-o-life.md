@@ -1,4 +1,6 @@
 # Lots 'O Life
+
+## Historic
 ```
 Deck
 4 Beloved Princess (ELD) 7
