@@ -1,4 +1,5 @@
 # Ruiner
+> Dumb, annoying deck that mills the shit out of your opponent.
 
 ```
 Deck
@@ -9,4 +10,5 @@ Deck
 Sideboard
 
 ```
+
 ## Archive
