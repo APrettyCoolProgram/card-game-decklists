@@ -1,8 +1,8 @@
 # Ruiner
-> Dumb, annoying deck.
+Dumb, annoying deck.
 
 ## New Historic
-> New Historic event March 2021
+New Historic event March 2021
 ```
 Deck
 23 Ruin Crab (ZNR) 75
