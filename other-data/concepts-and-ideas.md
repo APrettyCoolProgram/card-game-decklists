@@ -75,6 +75,7 @@ Polukranos  - BG
 
 Kaya's Wrath - WB
 Regal Bloodlord - WB
+Athreos - WB
 
 Maraleaf pixie - GU
 
