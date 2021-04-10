@@ -1,6 +1,5 @@
 # Neheb's Dreadhorde
 
-## Historic
 ```
 Deck
 2 Deface (RNA) 98
@@ -17,5 +16,6 @@ Deck
 20 Mountain (UST) 215
 
 Sideboard
-
 ```
+
+## Archive

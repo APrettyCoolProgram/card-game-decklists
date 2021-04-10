@@ -1,6 +1,5 @@
 # Domri
 
-## Historic
 ```
 Deck
 4 Domri, Anarch of Bolas (WAR) 191
@@ -23,4 +22,8 @@ Deck
 1 Tranquil Thicket (ONS) 326
 1 Root Snare (M19) 199
 9 Forest (UST) 216
+
+Sideboard
 ```
+
+## Archive

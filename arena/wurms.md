@@ -1,6 +1,5 @@
 # Wurms
 
-## Historic
 ```
 Deck
 2 Ranger's Guile (M21) 199
@@ -20,5 +19,6 @@ Deck
 4 Blinding Fog (XLN) 177
 
 Sideboard
-
 ```
+
+## Archive

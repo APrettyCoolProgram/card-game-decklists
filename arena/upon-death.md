@@ -1,6 +1,5 @@
 # Upon Death
 
-## Historic
 ```
 Deck
 13 Swamp (UST) 214

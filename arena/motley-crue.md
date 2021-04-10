@@ -1,6 +1,5 @@
 # Motley Crue
 
-## Historic
 ```
 Deck
 2 Temple of Malice (THB) 247
@@ -27,5 +26,6 @@ Deck
 1 Barren Moor (ONS) 312
 
 Sideboard
-
 ```
+
+## Archive

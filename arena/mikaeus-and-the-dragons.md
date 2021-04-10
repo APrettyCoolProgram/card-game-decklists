@@ -1,6 +1,5 @@
 # Mikaeus & The Dragons
 
-## Historic
 ```
 Deck
 4 Dragonmaster Outcast (WWK) 81
@@ -20,5 +19,6 @@ Deck
 2 Lightning Serpent (JMP) 88
 
 Sideboard
-
 ```
+
+## Archive
