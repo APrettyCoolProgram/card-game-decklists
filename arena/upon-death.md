@@ -1,4 +1,5 @@
 # Upon Death
+> Heavy on the creatures, each of which does something upon death.
 
 ```
 Deck
@@ -15,6 +16,8 @@ Deck
 4 Serrated Scorpion (IKO) 99
 
 Sideboard
+--
 ```
 
-## Archive
+### ARCHIVES
+*None*
