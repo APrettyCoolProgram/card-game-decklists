@@ -65,6 +65,7 @@ Tentative Connection - R
 Dreadhoarde Arcanist - R
 Erratic Cyclops - R
 Star of Extinction - R
+Dragonkin Berserker - R
 
 Pledge of Unity - WG
 March of the Multitudes - WG
