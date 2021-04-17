@@ -96,12 +96,6 @@ Inspiring Statuary
 Harmless Offering
 Death's Shadow
 
-
-
-
-
-
-
 *Ultimatum
 The Gates of...
 
