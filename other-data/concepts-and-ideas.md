@@ -65,6 +65,7 @@ Tentative Connection - R
 Dreadhoarde Arcanist - R
 Erratic Cyclops - R
 Star of Extinction - R
+Dragonkin Berserker - R
 
 Pledge of Unity - WG
 March of the Multitudes - WG
@@ -75,6 +76,7 @@ Polukranos  - BG
 
 Kaya's Wrath - WB
 Regal Bloodlord - WB
+Athreos - WB
 
 Maraleaf pixie - GU
 
@@ -94,12 +96,6 @@ Torment of Scarabs
 Inspiring Statuary
 Harmless Offering
 Death's Shadow
-
-
-
-
-
-
 
 *Ultimatum
 The Gates of...
@@ -144,6 +140,9 @@ Drain the Swamp
 
 ### Decks to revisit
 ```
+Domri
+    Not enough creatures
+
 Nahiri Kor Warriors
     Zendikar Rising has a bunch of common/uncommon Kor Warriors
 

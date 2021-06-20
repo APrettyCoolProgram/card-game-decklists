@@ -1,4 +1,5 @@
 # Pitiless Deathtouch
+
 ```
 Deck
 1 Feral Abomination (M20) 101
@@ -17,7 +18,6 @@ Deck
 1 Poison-Tip Archer (M19) 220
 
 Sideboard
-
 ```
 
 ## Archive
@@ -42,5 +42,4 @@ Deck
 1 Poison-Tip Archer (M19) 220
 
 Sideboard
-
 ```
