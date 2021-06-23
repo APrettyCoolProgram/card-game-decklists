@@ -20,7 +20,7 @@ Deck
 4 Murder (M20) 109
 1 Pacifism (JMP) 125
 
-
 Sideboard
 
 ```
+

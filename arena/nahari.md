@@ -1,5 +1,4 @@
 # Nahari
-
 ```
 Deck
 2 Nahiri, Heir of the Ancients (ZNR) 230
@@ -24,6 +23,6 @@ Deck
 3 Attended Healer (ZNR) 6
 
 Sideboard
+
 ```
 
-## Archive

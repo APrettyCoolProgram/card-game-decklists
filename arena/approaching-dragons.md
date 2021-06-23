@@ -1,5 +1,4 @@
 # Approaching Dragons
-
 ```
 Deck
 26 Dragon's Approach (STX) 97
@@ -12,6 +11,7 @@ Deck
 1 Demanding Dragon (M19) 135
 4 Forgotten Cave (ONS) 317
 
+Sideboard
+
 ```
 
-## Archive

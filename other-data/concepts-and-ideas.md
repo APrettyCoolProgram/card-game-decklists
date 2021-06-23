@@ -72,7 +72,8 @@ March of the Multitudes - WG
 
 Casualties of War - BG
 Hapatra - BG
-Polukranos  - BG 
+Polukranos  - BG
+Morrette - BG
 
 Kaya's Wrath - WB
 Regal Bloodlord - WB
@@ -83,6 +84,7 @@ Maraleaf pixie - GU
 Kroxa - BR
 
 Swathcutter Giant - RW
+Swiftblade Vindicator -RW
 
 Song of Creation - GUR
 
@@ -123,6 +125,7 @@ Planeswalkers
 Rats
 Illusions
 animals - pangolin
+Fractals
 
 ```
 

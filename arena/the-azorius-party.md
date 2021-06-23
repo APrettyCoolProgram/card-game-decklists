@@ -30,4 +30,8 @@ Deck
 1 Shepherd of Heroes (ZNR) 38
 3 Concerted Defense (ZNR) 52
 4 Sea Gate Colossus (ZNR) 251
+
+Sideboard
+
 ```
+

@@ -17,9 +17,8 @@ Sideboard
 
 ```
 
-## Archive
+
 ### 210130
-> This version has dual-lands.
 ```
 Deck
 9 Forest (UST) 216
@@ -39,6 +38,7 @@ Deck
 Sideboard
 
 ```
+
 
 ### 201220
 ```
@@ -61,3 +61,4 @@ Deck
 Sideboard
 
 ```
+

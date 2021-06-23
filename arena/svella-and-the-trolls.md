@@ -1,3 +1,5 @@
+# Svella and the Trolls
+```
 Deck
 2 Blizzard Brawl (KHM) 162
 2 Smashing Success (KHM) 151
@@ -17,3 +19,8 @@ Deck
 1 Old-Growth Troll (KHM) 185
 4 Challenger Troll (WAR) 157
 1 Trollbred Guardian (RNA) 148
+
+Sideboard
+
+```
+

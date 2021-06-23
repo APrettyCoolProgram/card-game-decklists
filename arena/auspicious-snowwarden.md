@@ -22,4 +22,8 @@ Deck
 10 Snow-Covered Plains (MH1) 250
 10 Snow-Covered Forest (MH1) 254
 1 Temple of Plenty (THB) 248
+
+Sideboard
+
 ```
+

@@ -24,8 +24,8 @@ Sideboard
 
 ```
 
-### Archive
-#### 200428
+
+### 200428
 ```
 2 Howling Giant (M20) 177
 9 Forest (ANA) 60
@@ -51,3 +51,4 @@ Sideboard
 Sideboard
 
 ```
+

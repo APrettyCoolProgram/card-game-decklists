@@ -25,10 +25,13 @@ Deck
 2 Forgotten Cave (ONS) 317
 2 Dragonskull Summit (XLN) 252
 3 Hurloon Minotaur (ANB) 74
+
+Sideboard
+
 ```
 
-### Archive
-#### 201207
+
+### 201207
 ```
 Deck
 2 Angrath, Captain of Chaos (WAR) 227
@@ -58,9 +61,14 @@ Deck
 1 Forgotten Cave (ONS) 317
 2 Dragonskull Summit (XLN) 252
 1 Thriving Moor (JMP) 37
+
+Sideboard
+
 ```
 
-#### 201206
+
+
+### 201206
 ```
 Deck
 4 Nyxborn Marauder (THB) 109
@@ -75,4 +83,8 @@ Deck
 4 Sorin's Thirst (WAR) 104
 4 Angrath, Captain of Chaos (WAR) 227
 1 Akoum Warrior (ZNR) 134
+
+Sideboard
+
 ```
+

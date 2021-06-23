@@ -21,4 +21,8 @@ Deck
 1 Shivan Dragon (M20) 335
 1 Hellkite Punisher (M21) 151
 2 Siege Dragon (ANB) 85
+
+Sideboard
+
 ```
+

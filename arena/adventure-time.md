@@ -1,5 +1,4 @@
 # Adventure Time
-
 ```
 Deck
 4 Faerie Guidemother (ELD) 11
@@ -17,6 +16,7 @@ Deck
 1 Brazen Borrower (ELD) 39
 3 Queen of Ice (ELD) 61
 
+Sideboard
+
 ```
 
-## Archive

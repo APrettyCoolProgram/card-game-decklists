@@ -19,8 +19,8 @@ Sideboard
 
 ```
 
-### Archive
-#### 200901
+
+### 200901
 ```
 4 Charmed Stray (WAR) 8
 24 Plains (ANB) 115
@@ -36,3 +36,4 @@ Sideboard
 Sideboard
 
 ```
+

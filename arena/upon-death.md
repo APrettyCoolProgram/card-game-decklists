@@ -1,6 +1,4 @@
 # Upon Death
-> Heavy on the creatures, each of which does something upon death.
-
 ```
 Deck
 13 Swamp (UST) 214
@@ -16,8 +14,6 @@ Deck
 4 Serrated Scorpion (IKO) 99
 
 Sideboard
---
+
 ```
 
-### ARCHIVES
-*None*

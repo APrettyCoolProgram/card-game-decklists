@@ -1,6 +1,4 @@
 # Gates & Things
->  Large, prismatic, singleton (except for Gates) deck focusing on Gates and other things.
-
 ```
 Deck
 1 Ajani's Welcome (M19) 6
@@ -149,6 +147,6 @@ Deck
 4 Simic Guildgate (RNA) 258
 
 Sideboard
+
 ```
 
-## Archive

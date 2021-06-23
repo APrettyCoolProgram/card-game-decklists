@@ -1,5 +1,4 @@
 # Lots 'O Life
-
 ```
 Deck
 4 Beloved Princess (ELD) 7
@@ -14,6 +13,6 @@ Deck
 24 Plains (UST) 212
 
 Sideboard
+
 ```
 
-## Archive

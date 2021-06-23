@@ -29,8 +29,8 @@ Sideboard
 
 ```
 
-### Archive
-#### 201024
+
+### 201024
 ```
 Deck
 20 Swamp (UST) 214
@@ -53,7 +53,8 @@ Sideboard
 
 ```
 
-#### 200923
+
+### 200923
 ```
 Deck
 4 Foulmire Knight (ELD) 90
@@ -72,3 +73,4 @@ Deck
 Sideboard
 
 ```
+

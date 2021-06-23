@@ -16,4 +16,8 @@ Deck
 2 Tranquil Thicket (ONS) 326
 1 Heroic Intervention (M21) 188
 4 Blinding Fog (XLN) 177
+
+Sideboard
+
 ```
+

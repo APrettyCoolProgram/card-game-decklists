@@ -1,4 +1,4 @@
-# Puncing Archipelagore
+# Pouncing Archipelagore
 ```
 Deck
 2 Essence Scatter (IKO) 49
@@ -22,3 +22,4 @@ Deck
 Sideboard
 
 ```
+

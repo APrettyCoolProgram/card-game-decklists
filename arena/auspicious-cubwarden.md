@@ -21,8 +21,8 @@ Sideboard
 
 ```
 
-#### 210130
-## Archive
+
+### 210130
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -52,7 +52,8 @@ Sideboard
 
 ```
 
-#### 210127
+
+### 210127
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -81,3 +82,4 @@ Deck
 Sideboard
 
 ```
+

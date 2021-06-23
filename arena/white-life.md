@@ -20,10 +20,15 @@ Deck
 1 Blessed Light (DAR) 7
 1 Bright Reprisal (XLN) 7
 1 Cleansing Nova (M19) 9
+
+Sideboard
+
 ```
-## Archive
-200504
+
+
+### 200504
 ```
+Deck
 24 Plains (RIX) 192
 2 Bishop's Soldier (XLN) 6
 3 Ajani's Pridemate (M19) 5
@@ -47,4 +52,8 @@ Deck
 1 Bright Reprisal (XLN) 7
 1 Cleansing Nova (M19) 9
 2 Herald of Faith (M19) 13
+
+Sideboard
+
 ```
+

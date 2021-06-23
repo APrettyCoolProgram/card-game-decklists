@@ -1,5 +1,5 @@
 # Creature Killer
-
+```
 Deck
 4 Blazing Volley (IKO) 107
 24 Snow-Covered Mountain (MH1) 253
@@ -17,7 +17,12 @@ Deck
 2 Dual Strike (KHM) 132
 1 Demon Bolt (KHM) 129
 
-210131
+Sideboard
+
+```
+
+
+### 210131
 ```
 Deck
 4 Blazing Volley (IKO) 107
@@ -38,3 +43,4 @@ Deck
 Sideboard
 
 ```
+

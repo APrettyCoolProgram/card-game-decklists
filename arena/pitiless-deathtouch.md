@@ -18,9 +18,10 @@ Deck
 1 Poison-Tip Archer (M19) 220
 
 Sideboard
+
 ```
 
-## Archive
+
 ### 210130
 ```
 Deck
@@ -42,4 +43,6 @@ Deck
 1 Poison-Tip Archer (M19) 220
 
 Sideboard
+
 ```
+

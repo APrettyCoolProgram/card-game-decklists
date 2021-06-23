@@ -1,5 +1,4 @@
 # Land of the Dinosaurs
-
 ```
 Deck
 2 Adventurous Impulse (IKO) 142
@@ -19,6 +18,7 @@ Deck
 2 Gigantosaurus (M19) 185
 24 Forest (UST) 216
 
+Sideboard
+
 ```
 
-## Archive

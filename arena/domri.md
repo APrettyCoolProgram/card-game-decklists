@@ -1,5 +1,4 @@
 # Domri
-
 ```
 Deck
 4 Domri, Anarch of Bolas (WAR) 191
@@ -24,6 +23,6 @@ Deck
 9 Forest (UST) 216
 
 Sideboard
+
 ```
 
-## Archive

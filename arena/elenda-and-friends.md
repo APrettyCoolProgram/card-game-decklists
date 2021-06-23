@@ -20,8 +20,8 @@ Sideboard
 
 ```
 
-### Archive
-#### 201031
+
+### 201031
 ```
 2 Vizkopa Vampire (RNA) 220
 4 Bloodthirsty Aerialist (M20) 91
@@ -42,3 +42,4 @@ Sideboard
 Sideboard
 
 ```
+
