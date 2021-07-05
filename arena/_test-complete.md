@@ -1,8 +1,6 @@
 # Angrath
 
-> This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck.<br>
-<br>
-Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. 
+> This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck.<br>Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. 
 
 ```
 Deck
