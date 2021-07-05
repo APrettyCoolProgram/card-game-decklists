@@ -5,7 +5,9 @@
 
 |     |     |     |
 | --- | --- | --- |
-| `<br>Deck<br>4 Angrath's Rampage<br>4 Angrath, Captain of Chaos` |   |   |
+| `Deck
+4 Angrath's Rampage
+4 Angrath, Captain of Chaos` |   |   |
 
 
 1 Angrath, the Flame-Chained
