@@ -90,14 +90,9 @@ Song of Creation - GUR
 
 Zhalfirin Void - L
 
--- Historic Anthology 4
-Spider Spawning
-Adorned Pouncer
-Bonesplitter
-Torment of Scarabs
-Inspiring Statuary
-Harmless Offering
-Death's Shadow
+
+
+
 
 *Ultimatum
 The Gates of...
@@ -131,7 +126,6 @@ Fractals
 
 ### Themes
 ```
-Vampires with Hats
 Mutating <animal>
 Classic monsters
 Control other creatures
