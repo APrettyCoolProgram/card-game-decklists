@@ -5,8 +5,9 @@
 
 |     |     |     |
 | --- | --- | --- |
-| ```<br>Deck<br>4 Angrath's Rampage
-4 Angrath, Captain of Chaos
+| ```<br>Deck<br>4 Angrath's Rampage<br>4 Angrath, Captain of Chaos |   |   |
+
+
 1 Angrath, the Flame-Chained
 2 Angrath's Fury
 1 Angrath, Minotaur Pirate
