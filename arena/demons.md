@@ -32,7 +32,7 @@ Sideboard
 ```
 
 ## ARCHIVE
-#### 000000
+### 000000
 ```
 Deck
 4 Angrath's Rampage (WAR) 185
