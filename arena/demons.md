@@ -51,16 +51,6 @@ Sideboard
 </tr>
 <table>
 
-
-
-
-```
-Deck
-
-
-Sideboard
-```
-
 ## ARCHIVE
 ### 000000
 ```
