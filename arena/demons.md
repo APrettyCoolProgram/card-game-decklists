@@ -1,32 +1,63 @@
 # Demons
 > Deck description
 
+<table>
+<tr>
+<td>
+
 ```
 Deck
-4 Angrath's Rampage
-4 Angrath, Captain of Chaos
-1 Angrath, the Flame-Chained
-2 Angrath's Fury
-1 Angrath, Minotaur Pirate
-2 Smelt-Ward Minotaur
-2 Akoum Warrior
-1 Shatterskull Minotaur
-2 Murder
-4 Jaya's Greeting
-1 Moraug, Fury of Akoum
-1 Sorin's Thirst
-2 Shock
-4 Hostile Minotaur
-2 Barren Moor 
-1 Zof Consumption
-2 Thriving Moor
-2 Thriving Bluff
-1 Song-Mad Treachery
-2 Forgotten Cave
-2 Dragonskull Summit
-3 Hurloon Minotaur
-8 Mountain
-6 Swamp
+3 Carnifex Demon (JMP) 57
+1 Kardur, Doomscourge (KHM) 216
+1 Black Market (JMP) 204
+2 Liliana's Contract (M19) 107
+1 Cabal Stronghold (DAR) 238
+1 Taborax, Hope's Demise (ZNR) 129
+2 Barren Moor (ONS) 312
+1 Demon of Loathing (THB) 292
+2 Forgotten Cave (ONS) 317
+1 Rafter Demon (RNA) 196
+2 Harvester of Souls (JMP) 243
+1 Rite of Belzenlok (DAR) 102
+2 Doom Whisperer (GRN) 69
+1 Demon of Catastrophes (M19) 91
+1 Vilis, Broker of Blood (M20) 122
+2 Thriving Moor (JMP) 37
+1 The Bloodsky Massacre (KHM) 207
+2 Thriving Bluff (JMP) 33
+2 Demon of Loathing (ANB) 48
+2 Dream Devourer (KHM) 90
+7 Swamp (UST) 214
+4 Irencrag Feat (ELD) 127
+2 Lotus Field (M20) 249
+1 Mirrodin's Core (JMP) 492
+2 Firemind Vessel (WAR) 237
+4 Nyx Lotus (THB) 235
+1 Gilded Lotus (DAR) 215
+1 Chromatic Orrery (M21) 228
+1 Revel in Riches (XLN) 117
+5 Mountain (UST) 215
+1 Brass's Bounty (RIX) 94
+
+
+Sideboard
+```
+
+</td>
+<td valign="top">
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401455&type=card)
+
+</td>
+</tr>
+<table>
+
+
+
+
+```
+Deck
+
 
 Sideboard
 ```
