@@ -39,10 +39,8 @@ Deck
 5 Mountain (UST) 215
 1 Brass's Bounty (RIX) 94
 
-
 Sideboard
 ```
-
 </td>
 <td valign="top">
 
