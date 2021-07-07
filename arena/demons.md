@@ -46,7 +46,7 @@ Sideboard
 </td>
 <td valign="top">
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401455&type=card)
+![]()
 
 </td>
 </tr>
