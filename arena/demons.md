@@ -1,10 +1,5 @@
-# Angrath
-
+# Demons
 > This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck.<br><br>Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. 
-
-<table>
-<tr>
-<td>
 
 ```
 Deck
@@ -35,17 +30,6 @@ Deck
 
 Sideboard
 ```
-
-</td>
-<td valign="top">
-
-![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401455&type=card)
-
-</td>
-</tr>
-<table>
-
-
 
 
 ```
