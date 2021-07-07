@@ -72,7 +72,8 @@ March of the Multitudes - WG
 
 Casualties of War - BG
 Hapatra - BG
-Polukranos  - BG 
+Polukranos  - BG
+Morrette - BG
 
 Kaya's Wrath - WB
 Regal Bloodlord - WB
@@ -83,19 +84,15 @@ Maraleaf pixie - GU
 Kroxa - BR
 
 Swathcutter Giant - RW
+Swiftblade Vindicator -RW
 
 Song of Creation - GUR
 
 Zhalfirin Void - L
 
--- Historic Anthology 4
-Spider Spawning
-Adorned Pouncer
-Bonesplitter
-Torment of Scarabs
-Inspiring Statuary
-Harmless Offering
-Death's Shadow
+
+
+
 
 *Ultimatum
 The Gates of...
@@ -123,12 +120,12 @@ Planeswalkers
 Rats
 Illusions
 animals - pangolin
+Fractals
 
 ```
 
 ### Themes
 ```
-Vampires with Hats
 Mutating <animal>
 Classic monsters
 Control other creatures
