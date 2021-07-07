@@ -46,8 +46,6 @@ Sideboard
 <table>
 
 
-
-
 ```
 Deck
 4 Angrath's Rampage (WAR) 185

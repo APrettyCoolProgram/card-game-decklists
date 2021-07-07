@@ -1,5 +1,5 @@
 # Demons
-> This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck. This is a description of the deck.<br><br>Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. Win conditions, etc. 
+> Deck description
 
 ```
 Deck
