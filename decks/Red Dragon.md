@@ -1,5 +1,3 @@
-<img align="right" width="223" height="310" vspace="50" src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2408&type=card">
-
 # Red Dragons
 
 ```
@@ -25,6 +23,7 @@ Sideboard
 No sideboard.
 
 ```
+<img align="right" width="223" height="310" vspace="50" src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2408&type=card">
 
 ## ARCHIVES
 No archives.
