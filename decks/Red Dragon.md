@@ -6,7 +6,7 @@
 <tr>
 <td valign="top">
 
-https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2408&type=card
+![](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2408&type=card)
 
 </td>
 </tr>
