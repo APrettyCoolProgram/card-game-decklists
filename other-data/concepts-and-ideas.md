@@ -133,6 +133,12 @@ Graveyeard
 Cats and Dogs
 Gain 3 life
 Drain the Swamp
+You Meet in a Tavern - Cards with the D&D adventure names
+<color> Dragon - Decks around the different D&D dragons
+Dungeons - Dungeons
+Dungeons & Dragons - Dungeons and dragons
+Minsc (and Boo) - Minsc and Boo
+
 ```
 
 ### Decks to revisit
