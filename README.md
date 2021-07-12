@@ -14,3 +14,5 @@
 <!-- About this repository -->
 # ABOUT
 This is a collection of decklists for [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering), a collectible and digital collectible card game created by Richard Garfield and released in 1993 by Wizards of the Coast.
+
+[Go here.](https://aprettycoolprogram.github.io/magic-the-gathering-decklists/)
